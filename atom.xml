@@ -1,516 +1,396 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>sxh 💖 lmy</title>
-  
-  
-  <link href="http://sxhlmy.love/atom.xml" rel="self"/>
-  
-  <link href="http://sxhlmy.love/"/>
-  <updated>2025-11-26T15:45:13.492Z</updated>
-  <id>http://sxhlmy.love/</id>
-  
   <author>
     <name>SOFILIPA</name>
-    
   </author>
-  
   <generator uri="https://hexo.io/">Hexo</generator>
-  
+  <id>http://sxhlmy.love/</id>
+  <link href="http://sxhlmy.love/" rel="alternate"/>
+  <link href="http://sxhlmy.love/atom.xml" rel="self"/>
+  <rights>All rights reserved 2026, SOFILIPA</rights>
+  <subtitle>For us.</subtitle>
+  <title>sxh 💖 lmy</title>
+  <updated>2025-11-26T15:45:13.492Z</updated>
   <entry>
-    <title>杂记</title>
-    <link href="http://sxhlmy.love/2025/09/22/%E6%9D%82%E8%AE%B0/"/>
+    <author>
+      <name>SOFILIPA</name>
+    </author>
+    <category term="随笔" scheme="http://sxhlmy.love/tags/%E9%9A%8F%E7%AC%94/"/>
+    <content>
+      <![CDATA[<p>上一篇博客的开始还在说自己很久没有写博客，这次是真的很久了，一晃忽觉快两年过去，白驹过隙，于生活上、心情上，都有了很大不同，甚至已经是一个步入职场的人了，这在几年前还是不可想象的，不过人生如此，Let it be。</p><p>跟随着同龄人的脚步，完成了学业、找了工作。并完成了一些所谓人生的关键抉择</p><p><img src="https://lover-1304073984.cos.ap-nanjing.myqcloud.com/love/IMG_4861%20(1).jpeg" alt="image-20230104201620779" style="zoom:20%;" /></p><center>    <div style="color:orange;    display: inline-block;    color: #999;    padding: 2px;">屌丝套餐    </div></center>]]>
+    </content>
     <id>http://sxhlmy.love/2025/09/22/%E6%9D%82%E8%AE%B0/</id>
+    <link href="http://sxhlmy.love/2025/09/22/%E6%9D%82%E8%AE%B0/"/>
     <published>2025-09-22T12:39:09.000Z</published>
-    <updated>2025-11-26T15:45:13.492Z</updated>
-    
-    <content type="html"><![CDATA[<p>上一篇博客的开始还在说自己很久没有写博客，这次是真的很久了，一晃忽觉快两年过去，白驹过隙，于生活上、心情上，都有了很大不同，甚至已经是一个步入职场的人了，这在几年前还是不可想象的，不过人生如此，Let it be。</p><p>跟随着同龄人的脚步，完成了学业、找了工作。并完成了一些所谓人生的关键抉择</p><p><img src="https://lover-1304073984.cos.ap-nanjing.myqcloud.com/love/IMG_4861%20(1).jpeg" alt="image-20230104201620779" style="zoom:20%;" /></p><center>    <div style="color:orange;    display: inline-block;    color: #999;    padding: 2px;">屌丝套餐    </div></center>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;p&gt;上一篇博客的开始还在说自己很久没有写博客，这次是真的很久了，一晃忽觉快两年过去，白驹过隙，于生活上、心情上，都有了很大不同，甚至已经是一个步入职场的人了，这在几年前还是不可想象的，不过人生如此，Let it be。&lt;/p&gt;
-&lt;p&gt;跟随着同龄人的脚步，完成了学业、找了工作。并</summary>
-      
-    
-    
-    
-    
-    <category term="随笔" scheme="http://sxhlmy.love/tags/%E9%9A%8F%E7%AC%94/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>流水账与巴厘岛</title>
-    <link href="http://sxhlmy.love/2023/10/19/%E6%B5%81%E6%B0%B4%E8%B4%A6%E4%B8%8E%E5%B7%B4%E5%8E%98%E5%B2%9B/"/>
-    <id>http://sxhlmy.love/2023/10/19/%E6%B5%81%E6%B0%B4%E8%B4%A6%E4%B8%8E%E5%B7%B4%E5%8E%98%E5%B2%9B/</id>
-    <published>2023-10-18T16:34:49.000Z</published>
-    <updated>2025-11-26T15:45:15.481Z</updated>
-    
-    <content type="html"><![CDATA[<p>很久不写博客，一是生活忙碌且无聊，而是有时有想记录下来的事情，却又总忘记。这次便索性把最近的事情、经历、感悟都如流水账一样记下。</p><p>这学期的开始还比较轻松，属于是每天舒舒服服完成工作，晚上还能空出些时间打打游戏、刷刷视频，好不美哉，每个周末还有精力做顿大餐，甚至出门徒步。直到一门作业几个人一起写到凌晨五点一起交，才发现好日子已到头。之后的日子便是一直写代码、读文档、修bug，是我的我得写，不是我的也得写，总是，大家没法干的活，都是我的。每天熬夜，咔咔猛干。不由得让人联想到一些以后工作后的日子，不得不说还是挺令人绝望的。</p><p><img src="https://lover-1304073984.cos.ap-nanjing.myqcloud.com/love/IMG_4854.jpeg" alt="image-20230104201620779" style="zoom:20%;" /></p><center>    <div style="color:orange;    display: inline-block;    color: #999;    padding: 2px;">胶囊中    </div></center><p>到期中，能干的基本干完了，干不完的被迫也due完了。心不由得已经飞到了阳光沙滩上，嗅着大海的味道了。巴厘岛、印尼，两个词其实对我来说都不陌生，以前在b站上看过印尼的建国史，也算有些了解。对于出行，本穷鬼的标配是红眼航班，凌晨四点飞到第二天早上，深夜坐上uber，开往机场。机场里除了这个廉航之外的值机柜台几乎无人，巴提克，很东南亚的名字，老外在地上横七竖八的倚着行李，面前笔记本上播放着球赛。等待，在等待良久后，终于值机，之后就是惯例的安检，去候机厅坐着。不久登机，客舱窄窄的，庆幸的是座位还算舒服，旁边的不知是印尼或印度哥们，把脚自然地放在了座位上，大口吃着零食，我也只能昏昏睡去，无视这一切。醒来已是清晨，飞机播报着即将降落的消息，窗外是些星星点点的灯火。到的太早，海关都没什么，快速通关，照例交钱，没有遇到什么索要小费的事，只是签证官的口音英语夹杂中文，把我搞得晕头转向。匆匆取行李，发现朋友还有好久才到，索性准备在机场睡一觉。机场二楼左手边是一个胶囊旅馆，这种体验还是比较新奇的，办了 入住，放了行李，在我的小胶囊睡下了。胶囊空间不大，但什么都齐全，电视、空调、镜子、总控，应有尽有。定睛一看还有不少中文标识，想来也是老板一个个从中国运来的。缺点也是有的，通风相对一般，隔音更不必说，中间就隔了层板子，上下铺的各种声响都能听到，好在人不多，也是好好休息了会。</p><p><img src="https://lover-1304073984.cos.ap-nanjing.myqcloud.com/love/IMG_4861%20(1).jpeg" alt="image-20230104201620779" style="zoom:20%;" /></p><center>    <div style="color:orange;    display: inline-block;    color: #999;    padding: 2px;">屌丝套餐    </div></center><p><img src="https://lover-1304073984.cos.ap-nanjing.myqcloud.com/love/IMG_4871%20(1).jpeg" alt="image-20230104201620779" style="zoom:20%;" /></p><center>    <div style="color:orange;    display: inline-block;    color: #999;    padding: 2px;">Gojet摩的    </div></center><p>不久等来了朋友，一起打了个Grab去酒店。酒店在Canggu区，离机场很远，是个外国人很多，比较安静的区。一路上也是见识了巴厘岛的交通状况，车流息壤，摩托穿插其中，小小的道路水泄不通，只剩些滴滴答答的喇叭声。匆匆办了入住，就休息了。巴厘岛的出行坐车其实不便，因为道路总是很窄，又不方便改造，只有摩托可以游走其间，价格也很公道，去些近的地方算下来才四五块，就可以换来印尼老哥的一顿风驰电掣。这甚至还形成了一些独特产业，叫gojet，专门用来叫摩托的app，还是蛮新奇的。巴厘岛肯定得吃吃我们的屌丝套餐了，合算下来十几到二十人民币一份，有吃有喝美滋滋，吃完还能吹着海风沿街走走。</p><p><img src="https://lover-1304073984.cos.ap-nanjing.myqcloud.com/love/IMG_4941%20(1).jpeg" alt="image-20230104201620779" style="zoom:20%;" /></p><center>    <div style="color:orange;    display: inline-block;    color: #999;    padding: 2px;">佩尼达岛    </div></center><p>巴厘岛的经典行程之一就是主岛旁的佩尼达岛，一些很经典的壁纸就出自这里，比如ios之前的默认壁纸，就是这里的精灵坠崖。岛上的交通比较原生态，很难想象一个一年这么大人流量的景点连个像样的路都没有，一路上尘土飞扬，起起伏伏，叫苦不迭。好在景色是真美，碧波挟白浪，银滩掩翠影，美哉，美哉。可惜逛得太急，没来得及下去一览景致，在沙滩上躺会。</p><p><img src="https://lover-1304073984.cos.ap-nanjing.myqcloud.com/love/IMG_5046%20(1).jpeg" alt="image-20230104201620779" style="zoom:20%;" /></p><center>    <div style="color:orange;    display: inline-block;    color: #999;    padding: 2px;">站着如喽啰    </div></center><p>来到巴厘岛，潜水当然是不可少的。巴厘岛主要有几个潜水目的地，一个是图蓝本、一个是蓝梦岛还有一个是佩达尼岛的manta point。何为manta，就是人们常说的魔鬼鱼。三个潜点有各自的特色，图蓝本有二战沉船、蓝梦岛则是丰富的海洋生物以及澄澈的海水，至于manta point，顾名思义会有很多manta，也是一大盛景，但海水最凉，洋流也最多，出于保命要紧的原则，这个潜点以后再议。蓝梦岛本来也是很想去的，顺便住一晚体验体验海岛风情，但不幸的是潜店全部被订满了，我的whatsapp号因为给太多潜店发一样的消息，被扎克伯格封了段时间。于是只剩下图蓝本这一个选择，canggu在岛的偏西南，而潜店在岛的东北，算是岛上最远的距离了。于是只能一大早五点爬起来坐车，晃晃悠悠快三小时，伴随着老旧车体吱吱呀呀的生硬，坐的我腰酸背痛，到了潜店。潜店不大，一个接待大厅里一个储藏间，旁边两个淋浴隔间，加上一栋别墅和一个小泳池，就是全部。要是乐意的话，可以住在这里包三餐，疯狂潜水顺便把证拿了。但我还是算了，身为一个旱鸭子，教练依旧大言不惭的说着okok,that’s ok(此处印尼口音)。讲解了装备的用法与水下手势，在泳池扑腾了几下。就该下水了，一辆皮卡载着我们徐徐开向海边。海边是凌乱的碎石，并没有沙滩。穿上脚蹼，背上几十斤重的装备下水，水下的景致如此美妙，而我却只关心我的眼罩到底进水了没有，一切在手忙脚乱中度过。潜水的前一天，本来约了滑翔伞，谁知道整个下午都没有风，只能作罢，于是壮志未酬，把希望寄托在第二天的潜水，本来潜两次改为了三次，谁知道这是一切的伏笔。第二次下潜便是沉船，旁边有很多潜水员，这种情形称之为”潜水员风暴“。当然我是不介意的，只知道万一我出事了有更多人能救救我。在船舱驻足，教练让我在半空中摆拍，这个动作在水下让我呼吸不上来，景色不错，我只想早点上岸。</p><p><img src="https://lover-1304073984.cos.ap-nanjing.myqcloud.com/love/IMG_5067%20(1).jpeg" alt="image-20230104201620779" style="zoom:20%;" /></p><center>    <div style="color:orange;    display: inline-block;    color: #999;    padding: 2px;">最好吃的炒面    </div></center><p>终于可以休息会，一早醒来什么都没吃，就潜了两次，还是比较费精力的，教练送来了午饭，印尼炒面+水+水果，只能说堪称我吃过最好吃的炒面，因为我实在饿的不行了。</p><p>第三次下潜是在一片海中峭壁，这次我是真的精力不足了，潜着潜着，我竟然忘记了呼吸阀要用嘴巴咬住，只是含住吸气，这时候教练让我看崖壁的风景，我头一转，呼吸阀便吐了出去，猛喝两口水。人在水下遇到这种情况的慌乱是无以复加的，我只觉得大脑一白，自己要交代在这了。这时候教练没慌张，只是引导我重新戴上呼吸阀，并且给我的呼吸阀排水，终于恢复了呼吸。之后教练开始水下军训我，让我复刻了一遍排水、换气阀的全套流程，而我心里只想着赶紧上去，朝教练打要上浮的手势，教练不同意，硬生生走完了最后一段，也算是圆满结束，除了我连打嗝都是大海的味道。</p><p><img src="https://lover-1304073984.cos.ap-nanjing.myqcloud.com/love/IMG_5606%20(1).jpeg" alt="image-20230104201620779" style="zoom:20%;" /></p><center>    <div style="color:orange;    display: inline-block;    color: #999;    padding: 2px;">冲浪沙滩    </div></center><p>潜水完还不过瘾，因为之后就是在巴厘岛的最后一天了，决定一大早去冲浪。冲浪教练简直是我们遇到的英语最好的印尼人，打听才知道他有一个匈牙利妻子，典型的beach boy人设。练了会划水和上下板就下水了。本旱鸭子穿着救生衣冲浪，成为了靓丽的风景线，全沙滩就我一个这样的。冲浪的流程是先要往海的深处游，之后等浪来的时候迅速拨水同步速度，最后撑板站起来，跟着浪头起步。站起来是很难的一步，试了好多遍才成功了一次，爽的感觉是无以复加的，只能说感谢我的救生衣了。来回了四五次，我已经精疲力尽，给教练说我要提前结束课程，于是我在板上往岸边划，只觉得岸边是如此遥远，怎么划都划不到头。上岸后坐在沙滩上瘫痪，中午休息一下就要离开巴厘岛了。</p><p><img src="https://lover-1304073984.cos.ap-nanjing.myqcloud.com/love/IMG_5169%20(1).jpeg" alt="image-20230104201620779" style="zoom:20%;" /></p><center>    <div style="color:orange;    display: inline-block;    color: #999;    padding: 2px;">半夜爬山    </div></center><p><img src="https://lover-1304073984.cos.ap-nanjing.myqcloud.com/love/IMG_5207%20(1).jpeg" alt="image-20230104201620779" style="zoom:20%;" /></p><center>    <div style="color:orange;    display: inline-block;    color: #999;    padding: 2px;">迎接日出    </div></center><p>下午坐上离开巴厘岛的飞机，前往泗水，那里是两座有名火山的所在地，bromo与ijen。鉴于印尼航空的尿性，晚点是在正常不过的，晚点牺牲掉了我们到酒店后的休息时间。直接开了6个小时前往ijen。月明星稀，向导一边带路一边向我们推销他们的人力板车，说爬山太辛苦，实在不行掏点钱让他们拖上去。这是一种很苦的活计，也是当地人的一大收入来源，需要在二三十度的坡上用车拉人上山，自己爬着都体力不支，何况拉着人走几小时的脚程，深深respect。当然，向导越劝我坐，我是越不会坐的，坐了显得我不行，丢面儿。于是我气喘吁吁、步履蹒跚，吊着一口气终于到了山顶，同时是困饿冷交加，拍了些照片留念，就又徒步下山休息了。ijen确实还蛮漂亮，但我早上这时候只想休息。</p><p><img src="https://lover-1304073984.cos.ap-nanjing.myqcloud.com/love/IMG_5353%20(1).jpeg" alt="image-20230104201620779" style="zoom:20%;" /></p><center>    <div style="color:orange;    display: inline-block;    color: #999;    padding: 2px;">bromo日出    </div></center><p><img src="https://lover-1304073984.cos.ap-nanjing.myqcloud.com/love/IMG_5363%20(1).jpeg" alt="image-20230104201620779" style="zoom:20%;" /></p><center>    <div style="color:orange;    display: inline-block;    color: #999;    padding: 2px;">冒烟了    </div></center><p><img src="https://lover-1304073984.cos.ap-nanjing.myqcloud.com/love/IMG_5460%20(1).jpeg" alt="image-20230104201620779" style="zoom:20%;" /></p><center>    <div style="color:orange;    display: inline-block;    color: #999;    padding: 2px;">日出后    </div></center><p><img src="https://lover-1304073984.cos.ap-nanjing.myqcloud.com/love/IMG_5479%20(1).jpeg" alt="image-20230104201620779" style="zoom:20%;" /></p><center>    <div style="color:orange;    display: inline-block;    color: #999;    padding: 2px;">bromo骑马    </div></center><p>最后则是bromo，我只能说不虚此行。当我还是个中二理想背包客时，被奉为圭臬的书，亦是被称”旅行者的圣经“的书————《孤独星球》曾把bromo列为世界上必去的几大风景之一。爬山难度相对柔和，山脚下会有吉普载着在火山灰中穿行，月光泄地，火山静默着，时而被车痕激起一片尘埃，有些月球表面的意味。最后一堆人在山顶等日出，太阳在东边徐徐升起，火山这时也吐了个烟圈，金色的烟雾交相辉映。复杂的地貌勾勒出片片沟壑，一切如此清晰，翠绿、金黄、灰白，涂抹在一起，成了我见过最美的日出。</p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;p&gt;很久不写博客，一是生活忙碌且无聊，而是有时有想记录下来的事情，却又总忘记。这次便索性把最近的事情、经历、感悟都如流水账一样记下。&lt;/p&gt;
-&lt;p&gt;这学期的开始还比较轻松，属于是每天舒舒服服完成工作，晚上还能空出些时间打打游戏、刷刷视频，好不美哉，每个周末还有精力做顿大餐，甚至</summary>
-      
-    
-    
-    
-    <category term="旅行" scheme="http://sxhlmy.love/categories/travel/"/>
-    
-    
-    <category term="旅行" scheme="http://sxhlmy.love/tags/%E6%97%85%E8%A1%8C/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>世界末日</title>
-    <link href="http://sxhlmy.love/2023/05/29/%E4%B8%96%E7%95%8C%E6%9C%AB%E6%97%A5/"/>
-    <id>http://sxhlmy.love/2023/05/29/%E4%B8%96%E7%95%8C%E6%9C%AB%E6%97%A5/</id>
-    <published>2023-05-28T18:59:11.000Z</published>
-    <updated>2025-11-26T15:45:17.524Z</updated>
-    
-    <content type="html"><![CDATA[<p> &ensp;&ensp;&ensp;&ensp;世界末日算周杰伦一首蛮冷门的歌，当然对于狂热粉丝可能也不算，但他其实是我听周杰伦最久、或许也是最多的一首歌了。每每听到这首歌，我会想起live现场脱掉衣服的青涩杰伦，粉丝在台下的尖叫，以及一个人，许久未见的人。</p><p> &ensp;&ensp;&ensp;&ensp;那时大概是三四年级的样子，正值童年的夏天，总是漫长，每天看几集爸妈给我买的很多页分装的DVD，和伙伴在小区骑会单车，吹着空调入睡，又是一天过去。当然，作业也是少不了的，彼时的我已经开始每周末的奥数班了，当时数学对我来说快乐总体还是大于痛苦的。小时候我总会和一些我爸生意伙伴的家庭有所交集，我也就这么认识了鲍叔叔一家。鲍叔叔是个包工头，身材不高，长得胖胖的，挺着个不大不小的肚子，面容也说不上和善，满脸横肉，一只眼睛大概是看不见或是视力很差了，泛着白色。但鲍叔叔的性格却是很亲和，每次都给我们做他的拿手菜毛氏红烧肉，浓油赤酱，肥瘦相间，别有番风味。鲍叔叔有一个儿子，一个女儿。当然了，年级都比我大些，其中女儿又比儿子大些，是姐姐，名字叫鲍章玲（也许，但发音是这样的），在西安本地上大学，弟弟名字叫鲍章伟。他们一家也许是出于孩子上学的考虑，亦或是听了些我爸的劝说，都来了西安，而且和我们家住在一个小区里。当时他们来西安做的第一件事说来有趣，或许是为了体验风土人情，或许是单纯觉得有意思，他们去当了次百家碎戏的群演，在镜头旁边吃了两个小时的面，也算是少有的体验了。 </p> <p> &ensp;&ensp;&ensp;&ensp; 在同一个小区待着，自然是互有往来，我没事和dty经常往鲍叔叔家跑，自然也都熟络了起来，鲍章玲姐姐时常要去上学，在家的时间有限，是不是被弟弟调侃些关于感情状况的玩笑。鲍章伟哥哥，其实相当于是高二的年纪，但他并不在上学，或许是鲍叔叔正在给他找一所接受转学生的学校，或许是在给他谋求一个别的出路。鲍章伟哥哥没来多久，家里就配上了电脑，这也是我们喜欢去他家的原因之一，身为小学生，本人的电子产品使用时间是被严重限制的，尤其是电脑，大概是一周两三个小时的样子，取决于我奶奶有没有严格执行。对比之下，鲍叔叔家此时恰似一方乐土，是我的理想国。鲍章伟哥哥无疑是个宅男了，长得高高瘦瘦，说帅也是有一点的，每天的生活主要围绕电脑展开，最大的乐趣是边听着qq音乐的桌面滚动歌词，边打打DNF或者一些复古的街机游戏，最爱的电影是古惑仔系列。而我和dty总在他的电脑旁边候着，哥哥也总会给我们玩的机会，几个人用一个键盘一起玩些游戏，不亦乐乎。我问他为什么喜欢些黑社会电影，他说没什么，就是觉得很酷。这其实与他的性格还是蛮有反差，他对我们很好，待人接物也富于礼貌，很难把他与古惑仔关联起来，倒不如说他仍有颗狂野的内心。当然，除了些基本的娱乐活动，鲍章伟哥哥也是有感情世界的，我们俩守候在他的电脑桌旁，对着qq列表里的闪烁头像，了解的一清二楚，记得一位姐姐的名字叫“万莹莹“，还有位好像叫”王蓉“，记不清了，大概是哥哥以前的高中同学，每天都和他聊天，聊些有的没的。当然，具体的细节我也不是很清楚，这方面鲍哥哥有时还是对我们遮掩一下，说我们是小孩子，不懂这些，我的小小脑袋瓜相信他们是互有好感的。鲍哥哥的歌单总是些古惑仔的主题曲，什么刀光剑影、友情岁月，间或夹杂些流行歌曲。哥哥时而也会发表些锐评，把许嵩叫做许山睾，说他虽然抄袭，但是他还是蛮喜欢他的玫瑰花的葬礼。说李宇春被叫春哥都是些无聊的炒作之类的。有段时间，感觉哥哥的心情不太好，与列表里的两位姐姐说话也少了，我问他为什么不和万莹莹在一起，他说那是不可能的，都已经是过去了，我不知道哥哥的脑子里在想些什么，男女关系对于当时的我还是过于复杂，只知道哥哥可能是有些失落了，那是他的电脑里常放着一首歌，”天灰灰　会不会　让我忘了你是谁 夜越黑　梦违背　难追难回味“，他说那是他唯一觉得周杰伦好听的歌，那就是世界末日。所以一听到这首歌我就会想起鲍哥哥，想起他列表里的那几个姐姐，想起他告诫我们好好读书，想起我们一起守在电脑边度过的日子。那是夏天，蝉鸣不休，好像一切永远都不会过去，也不会停止，鲍哥哥会有好的爱情，我和dty会有好的成绩，在夏天里。 </p> <p>    &ensp;&ensp;&ensp;&ensp;夏天很快过去，鲍哥哥没有好的爱情，我和dty没有好的成绩，爸妈也因为这点不让我频繁的去鲍叔叔家了。鲍叔叔也为鲍哥哥谋求到了出路——鲍哥哥要去当兵了。最后一次见他是在车上，给他去买些当兵的行李铺盖什么的，鲍哥哥依旧对我们很好，问我们想不想吃好吃的，说自己要去当兵了。我在依旧在上些无聊的奥数班，dty在家看些金庸和假面骑士，载着鲍哥哥的车一路西行。之后不知怎么的，与鲍叔叔一家似乎也没了什么交集，听到鲍哥哥的消息已经是几年后，他已经是老兵，叔叔给他托关系换了军区，大概也有了些职位，再也没有回西安。童年的夏天总是漫长，却也背驰而去，一如载着鲍哥哥的列车，不再回头。只是每当响起世界末日，我总会想起他，想起些夏天的见闻。谨以此文纪念些童年时光，同时祝鲍哥哥一切安好。    </p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;p&gt;
- &amp;ensp;&amp;ensp;&amp;ensp;&amp;ensp;
-世界末日算周杰伦一首蛮冷门的歌，当然对于狂热粉丝可能也不算，但他其实是我听周杰伦最久、或许也是最多的一首歌了。每每听到这首歌，我会想起live现场脱掉衣服的青涩杰伦，粉丝在台下的尖叫，以及一个人，许久未见的人。
-&lt;/p&gt;</summary>
-      
-    
-    
-    
-    
-    <category term="随笔" scheme="http://sxhlmy.love/tags/%E9%9A%8F%E7%AC%94/"/>
-    
-  </entry>
-  
-  <entry>
+    <summary>
+      <![CDATA[<p>上一篇博客的开始还在说自己很久没有写博客，这次是真的很久了，一晃忽觉快两年过去，白驹过隙，于生活上、心情上，都有了很大不同，甚至已经是一个步入职场的人了，这在几年前还是不可想象的，不过人生如此，Let it be。</p>
+<p>跟随着同龄人的脚步，完成了学业、找了工作。并]]>
+    </summary>
     <title>杂记</title>
-    <link href="http://sxhlmy.love/2023/05/17/%E6%9D%82%E8%AE%B0/"/>
-    <id>http://sxhlmy.love/2023/05/17/%E6%9D%82%E8%AE%B0/</id>
-    <published>2023-05-17T14:41:31.000Z</published>
-    <updated>2025-11-26T15:45:30.189Z</updated>
-    
-    <content type="html"><![CDATA[<p> &ensp;&ensp;&ensp;&ensp; 最近是很忙的一段时间，各种课程的作业、论文，让我应接不暇。但凡有些开创、或逻辑性强的工作其实我也是乐意的，但其实常在做些无用的、训练性的、重复的无聊工作。这无疑是对我人格的某种摧残了。当然，在国内受的这种摧残也不少，所以身体倒是有了不少抗性，权当种精神磨炼吧，在那种抗拒、无聊中，照常完成着既定的任务。少数的时间其实也是快乐的，譬如做的项目被客户认可，相谈甚欢，但这终究不是我想专精的方向，人还是很难在某种程度上获得自由的。</p><p> &ensp;&ensp;&ensp;&ensp; 有一点倒是值得提及，鉴于日渐匮乏的物质与精神生活，迫使于愈发平淡的味觉与食谱，我终于爆发了。在某个对于牛肉汉堡、超市肉丸肉饼无比厌恶的下午，我决定大手一挥，做锅铁锅炖！于是火急火燎的添置食材，走过维妈市场、走过中超、走过厨房用品店，大中午的走了快一万步，回家瘫痪。小憩一会，紧接着是揉面、发面，焯水、炒糖色、炒菜、炒调料，开炖。本该六点吃的饭，八点才吃上。三个人急头白脸的一顿吃，才算安逸下来。三人份的做过了，就又叫更多朋友来吃，一个人端着个锅炒一整锅菜，不知道的还以为我是食堂师傅。总体是好的，大家吃饭笑哈哈，我也开心。当然，除了铁锅炖，甜品也有所涉及，现在也会了邪道版杨枝甘露，喝过的人交口称赞，不得不感叹甜品店的暴利。</p><p> &ensp;&ensp;&ensp;&ensp; 另外有些意思的事就是五月天演唱会了。虽说称不上是五月天的什么粉丝，但其实也算陪我长大了。我对五月天的记忆始于星空卫视，当时那是我最爱的电视频道之一，它总在一年不间断的播放些热血民工漫，七龙珠、海贼王、火影、死神，我的二次元启蒙也始于此。当时电视里几摇滚打扮的人在卖力的演唱着，节奏声声入耳，有时不自觉的吟唱，后来才知道那是逃离地球表面的MV。后来就是高中了，我姐带我去看五月天演唱会，夏天的省体外人头攒动，大家排着队进场，我姐与同事寒暄着。演出的细节我已不记得很多，只记得叫做人生无限公司，是我看的第一场演唱会。夏日的阵阵微风，夹杂呼声与霓虹闪烁，是个美好的夜晚。之后跟高中的女朋友闹分手，又自个儿听着歌好一顿哭，嘿嘿，多少有点丢人。大学期间其实没有怎么听他们的歌了，之后再很多的听到其实是毕业旅行时，和我一辆车的沙东大哥酷爱五月天，歌声一路从乌鲁木齐听到阿勒泰。在那里我们和朋友相聚，朋友生在新疆、长在新疆，大学来北京，每天吃吃喝喝，过得快快乐乐，毕业找到份和我们专业不着调的四大岗位，入职前在家乡休憩一阵。大哥自然是好酒好肉的接待我们，两个沙东人，一个新疆人，觥筹交错，不觉间已经几瓶白酒下肚，书生意气，挥斥方遒，互相吹捧着，冒着酒气的开着玩笑。饮罢，大家说好去KTV唱唱歌，作为收尾，我们的行程紧凑，只在阿勒泰停留一天，那天晚上也是我们在阿勒泰的最后一个晚上。男生们除了我都大多醉了，大哥说：”兄弟们，今天之后我们可能很久都不能见面了，大学这么好的兄弟，学生时代就要结束了。“，五月天的《星空》、《干杯》响起，大家互相拥抱着合唱，笑或泪，”會不會 有一天 時間真的能倒退退回 你的我的 回不去的 悠悠的歲月“，”那一年我們望著星空 有那麼多的 燦爛的夢“，清醒与不清醒间，作为了青春与学生岁月的某种片尾曲。虽说我的大学生活难说有什么值得怀念，可是音乐响起，眼泪还是会汇聚一起，我在怀念什么呢？我的所谓青春草草结尾，或许是那些草草度过的无忧无虑时光吧，宿舍某个躺平的下午，考试某次刷夜的对视，宿舍聚餐时的笑谈，亲手错失的感情，以后都会成为一种奢求。KTV在星空中结束了，朋友们在酒店前相拥而泣，不肯离去。在墨尔本的现场听到《干杯》时，我仍想哭，我仿佛闪回了那天晚上，朋友们一起歌唱，一起畅饮，最后狂欢着。某种意义上，五月天也算记录了我的人生，总不经意间在我的生命中留下些痕迹，小学、高中、毕业、读研，每一部分都有些值得回忆的，对应些歌曲，播放时场景复现，又成了少年人。 </p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;p&gt;
- &amp;ensp;&amp;ensp;&amp;ensp;&amp;ensp;
- 最近是很忙的一段时间，各种课程的作业、论文，让我应接不暇。但凡有些开创、或逻辑性强的工作其实我也是乐意的，但其实常在做些无用的、训练性的、重复的无聊工作。这无疑是对我人格的某种摧残了。当然，在国内受的这种摧残也不少，所</summary>
-      
-    
-    
-    
-    
-    <category term="杂记" scheme="http://sxhlmy.love/tags/%E6%9D%82%E8%AE%B0/"/>
-    
+    <updated>2025-11-26T15:45:13.492Z</updated>
   </entry>
-  
   <entry>
-    <title>塔州游记</title>
-    <link href="http://sxhlmy.love/2023/04/20/%E5%A1%94%E5%B7%9E%E6%B8%B8%E8%AE%B0/"/>
-    <id>http://sxhlmy.love/2023/04/20/%E5%A1%94%E5%B7%9E%E6%B8%B8%E8%AE%B0/</id>
-    <published>2023-04-20T15:03:59.000Z</published>
-    <updated>2025-11-26T15:45:32.347Z</updated>
-    
-    <content type="html"><![CDATA[<p> &ensp;&ensp;&ensp;&ensp; 复活节这个词以前和我并没有多大的关系，复活节岛的石像和复活节彩蛋除外。其实这次复活节我也没有什么体感，像一个正常的长假期一样，懒得去研究背后的原因、其中的习俗，只是当做繁忙生活中的消遣。不过总算能抽身去游山玩水，逃离一下墨尔本ct这狭小而拥挤的一隅。</p><p> &ensp;&ensp;&ensp;&ensp; 去塔州的原因很简单，离墨尔本近、且回国后一定不会来这个地方，因为实在太远。我等穷鬼在旅行前才匆匆买票，自然只买得起捷星————恶评如潮的廉航，甚至连随身行李有时候都称重。好在我的行李卡在了6.9kg，差点超重。飞塔州的的前一晚一夜没睡，前半夜在和鱼总和舍友聊天，后半夜匆匆打Uber去往机场，和车上的印度老哥有一搭没一搭的聊着天，他身上的香水味弥漫在车内不宽裕的空间中，让人窒息。不知怎的，没有什么困意，直到上了飞机才将将睡了半小时，行程很短，醒来就到了降落的时候，旁边的local大姐一直在用笔记本辛勤工作，很好奇到底是什么工作驱使着她在凌晨六点的飞机上一直写着word。塔州的机场很小、很原始，人从飞机旁边的移动楼梯上下去，廊桥什么的是不存在的，需要直接走到航站楼去。之后便与朋友会面，有新朋友、也有许久未见的高中老相识。</p><img src="https://lover-1304073984.cos.ap-nanjing.myqcloud.com/love/20230421014510.png" alt="image-20230104201620779" style="zoom:20%;" /><center>    <div style="color:orange;    display: inline-block;    color: #999;    padding: 2px;">清晨机场    </div></center><p> &ensp;&ensp;&ensp;&ensp; 复活节假期期间，前半段澳洲整体暴雨，后半段整体多云。自然是见不到什么好天气的，第一天出发布鲁尼岛，车应载23人，实载23人，挤得满满当当。车窗外飘着细密的雨，一切都潮湿着。布鲁尼岛说实话是个很好的去处，岛上遍布着农场、村落以及自然景致，前提是去对日子。生蚝肯定是要吃的，生蚝的咸涩留在嘴边，天上的雨点落在身上，好生凄凉。还有奶酪农场，前面的外国夫妇几乎尝遍了试吃台上的每一块奶酪，最后买的可能还没吃的多，我们也想效仿，只是山猪吃不来细糠，尝了两口就频频咋舌，只得作罢。当然，也有些可圈可点之处，导游良心发现带着我们去看了看白袋鼠，这样的袋鼠只在布鲁尼岛上存在，白白净净，看着是比普通袋鼠可爱不少。</p><img src="https://lover-1304073984.cos.ap-nanjing.myqcloud.com/love/20230421004122.png" alt="image-20230104201620779" style="zoom:20%;" /><center>    <div style="color:orange;    display: inline-block;    color: #999;    padding: 2px;">白袋鼠    </div></center><p> &ensp;&ensp;&ensp;&ensp; 第二天是酒杯湾，塔州的景点倒是比较特别，名字的由来各个带着些血腥生猛的气息。酒杯湾是为形状似红酒杯，海水在粗粝的沙滩上激起酒沫，而红酒本身则是由于捕鲸后在岸上处理，海水染为血水，是为红酒，构成了酒杯湾一词。两千年初期被美国某旅游杂志评为世界十大海滩之一，在我看来实在过誉了。来回路上四小时，爬山下山俩小时，又是吃喝拉撒睡的游客的一天。</p><img src="https://lover-1304073984.cos.ap-nanjing.myqcloud.com/love/20230421010052.png" alt="image-20230104201620779" style="zoom:20%;" /><center>    <div style="color:orange;    display: inline-block;    color: #999;    padding: 2px;">落日    </div></center><img src="https://lover-1304073984.cos.ap-nanjing.myqcloud.com/love/DSCF8328.jpg" alt="image-20230104201620779" style="zoom:8%;" /><center>    <div style="color:orange;    display: inline-block;    color: #999;    padding: 2px;">酒杯湾    </div></center><p><p> &ensp;&ensp;&ensp;&ensp;澳洲的历史是原住民与囚犯的血泪史。塔州的原住民塔斯马尼亚人早在19世纪就已经灭绝，由于屠杀、由于疾病。布鲁尼岛上的一处碑文镌刻着最后的塔斯马尼亚人，她见证了各个亲人被昂撒人杀害、奴役或是蹂躏，四五千人的族群沦为二位数直至个位数，直至她也离世。塔斯马尼亚人的文化、文字、语言也早已佚失，正如曾生活在塔斯马尼亚的物种们，何其悲怆。塔夫曼半岛主要生活着原住民与白人的后裔，地广人稀，政府并未铺设地下管网来提供用水，在今天他们仍然以一种比较原始的状态生存着。而塔夫曼半岛的另外一方，便是亚瑟港，一所囚犯们为自己修建的监狱。碧波拍打着山野，颓圮篱墙衬着荒冢，一切无声，游客来去匆匆，唯有碧波，唯有山野，唯有荒冢回响着。</p><img src="https://lover-1304073984.cos.ap-nanjing.myqcloud.com/love/20230421013223.png" alt="image-20230104201620779" style="zoom:20%;" /><center>    <div style="color:orange;    display: inline-block;    color: #999;    padding: 2px;">亚瑟港    </div></center><p> &ensp;&ensp;&ensp;&ensp; 剩下景色并无异致,山川瀑布,古树参天,是在中国森林公园也不少见的景象。只是过度摄入的鱼薯让我PTSD，发誓再也不吃。总而言之，是趟普通的旅行，有不错的朋友，但天气时常阴沉，行程走马观花，亦或是土地中隐隐的苦难刺痛着我，纵使阳光明媚，却也暗淡了。</p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;p&gt;
- &amp;ensp;&amp;ensp;&amp;ensp;&amp;ensp;
- 复活节这个词以前和我并没有多大的关系，复活节岛的石像和复活节彩蛋除外。其实这次复活节我也没有什么体感，像一个正常的长假期一样，懒得去研究背后的原因、其中的习俗，只是当做繁忙生活中的消遣。不过总算能抽身去游山玩水，逃离一</summary>
-      
-    
-    
-    
+    <author>
+      <name>SOFILIPA</name>
+    </author>
     <category term="旅行" scheme="http://sxhlmy.love/categories/travel/"/>
-    
-    
     <category term="旅行" scheme="http://sxhlmy.love/tags/%E6%97%85%E8%A1%8C/"/>
-    
+    <content>
+      <![CDATA[<p>很久不写博客，一是生活忙碌且无聊，而是有时有想记录下来的事情，却又总忘记。这次便索性把最近的事情、经历、感悟都如流水账一样记下。</p><p>这学期的开始还比较轻松，属于是每天舒舒服服完成工作，晚上还能空出些时间打打游戏、刷刷视频，好不美哉，每个周末还有精力做顿大餐，甚至出门徒步。直到一门作业几个人一起写到凌晨五点一起交，才发现好日子已到头。之后的日子便是一直写代码、读文档、修bug，是我的我得写，不是我的也得写，总是，大家没法干的活，都是我的。每天熬夜，咔咔猛干。不由得让人联想到一些以后工作后的日子，不得不说还是挺令人绝望的。</p><p><img src="https://lover-1304073984.cos.ap-nanjing.myqcloud.com/love/IMG_4854.jpeg" alt="image-20230104201620779" style="zoom:20%;" /></p><center>    <div style="color:orange;    display: inline-block;    color: #999;    padding: 2px;">胶囊中    </div></center><p>到期中，能干的基本干完了，干不完的被迫也due完了。心不由得已经飞到了阳光沙滩上，嗅着大海的味道了。巴厘岛、印尼，两个词其实对我来说都不陌生，以前在b站上看过印尼的建国史，也算有些了解。对于出行，本穷鬼的标配是红眼航班，凌晨四点飞到第二天早上，深夜坐上uber，开往机场。机场里除了这个廉航之外的值机柜台几乎无人，巴提克，很东南亚的名字，老外在地上横七竖八的倚着行李，面前笔记本上播放着球赛。等待，在等待良久后，终于值机，之后就是惯例的安检，去候机厅坐着。不久登机，客舱窄窄的，庆幸的是座位还算舒服，旁边的不知是印尼或印度哥们，把脚自然地放在了座位上，大口吃着零食，我也只能昏昏睡去，无视这一切。醒来已是清晨，飞机播报着即将降落的消息，窗外是些星星点点的灯火。到的太早，海关都没什么，快速通关，照例交钱，没有遇到什么索要小费的事，只是签证官的口音英语夹杂中文，把我搞得晕头转向。匆匆取行李，发现朋友还有好久才到，索性准备在机场睡一觉。机场二楼左手边是一个胶囊旅馆，这种体验还是比较新奇的，办了 入住，放了行李，在我的小胶囊睡下了。胶囊空间不大，但什么都齐全，电视、空调、镜子、总控，应有尽有。定睛一看还有不少中文标识，想来也是老板一个个从中国运来的。缺点也是有的，通风相对一般，隔音更不必说，中间就隔了层板子，上下铺的各种声响都能听到，好在人不多，也是好好休息了会。</p><p><img src="https://lover-1304073984.cos.ap-nanjing.myqcloud.com/love/IMG_4861%20(1).jpeg" alt="image-20230104201620779" style="zoom:20%;" /></p><center>    <div style="color:orange;    display: inline-block;    color: #999;    padding: 2px;">屌丝套餐    </div></center><p><img src="https://lover-1304073984.cos.ap-nanjing.myqcloud.com/love/IMG_4871%20(1).jpeg" alt="image-20230104201620779" style="zoom:20%;" /></p><center>    <div style="color:orange;    display: inline-block;    color: #999;    padding: 2px;">Gojet摩的    </div></center><p>不久等来了朋友，一起打了个Grab去酒店。酒店在Canggu区，离机场很远，是个外国人很多，比较安静的区。一路上也是见识了巴厘岛的交通状况，车流息壤，摩托穿插其中，小小的道路水泄不通，只剩些滴滴答答的喇叭声。匆匆办了入住，就休息了。巴厘岛的出行坐车其实不便，因为道路总是很窄，又不方便改造，只有摩托可以游走其间，价格也很公道，去些近的地方算下来才四五块，就可以换来印尼老哥的一顿风驰电掣。这甚至还形成了一些独特产业，叫gojet，专门用来叫摩托的app，还是蛮新奇的。巴厘岛肯定得吃吃我们的屌丝套餐了，合算下来十几到二十人民币一份，有吃有喝美滋滋，吃完还能吹着海风沿街走走。</p><p><img src="https://lover-1304073984.cos.ap-nanjing.myqcloud.com/love/IMG_4941%20(1).jpeg" alt="image-20230104201620779" style="zoom:20%;" /></p><center>    <div style="color:orange;    display: inline-block;    color: #999;    padding: 2px;">佩尼达岛    </div></center><p>巴厘岛的经典行程之一就是主岛旁的佩尼达岛，一些很经典的壁纸就出自这里，比如ios之前的默认壁纸，就是这里的精灵坠崖。岛上的交通比较原生态，很难想象一个一年这么大人流量的景点连个像样的路都没有，一路上尘土飞扬，起起伏伏，叫苦不迭。好在景色是真美，碧波挟白浪，银滩掩翠影，美哉，美哉。可惜逛得太急，没来得及下去一览景致，在沙滩上躺会。</p><p><img src="https://lover-1304073984.cos.ap-nanjing.myqcloud.com/love/IMG_5046%20(1).jpeg" alt="image-20230104201620779" style="zoom:20%;" /></p><center>    <div style="color:orange;    display: inline-block;    color: #999;    padding: 2px;">站着如喽啰    </div></center><p>来到巴厘岛，潜水当然是不可少的。巴厘岛主要有几个潜水目的地，一个是图蓝本、一个是蓝梦岛还有一个是佩达尼岛的manta point。何为manta，就是人们常说的魔鬼鱼。三个潜点有各自的特色，图蓝本有二战沉船、蓝梦岛则是丰富的海洋生物以及澄澈的海水，至于manta point，顾名思义会有很多manta，也是一大盛景，但海水最凉，洋流也最多，出于保命要紧的原则，这个潜点以后再议。蓝梦岛本来也是很想去的，顺便住一晚体验体验海岛风情，但不幸的是潜店全部被订满了，我的whatsapp号因为给太多潜店发一样的消息，被扎克伯格封了段时间。于是只剩下图蓝本这一个选择，canggu在岛的偏西南，而潜店在岛的东北，算是岛上最远的距离了。于是只能一大早五点爬起来坐车，晃晃悠悠快三小时，伴随着老旧车体吱吱呀呀的生硬，坐的我腰酸背痛，到了潜店。潜店不大，一个接待大厅里一个储藏间，旁边两个淋浴隔间，加上一栋别墅和一个小泳池，就是全部。要是乐意的话，可以住在这里包三餐，疯狂潜水顺便把证拿了。但我还是算了，身为一个旱鸭子，教练依旧大言不惭的说着okok,that’s ok(此处印尼口音)。讲解了装备的用法与水下手势，在泳池扑腾了几下。就该下水了，一辆皮卡载着我们徐徐开向海边。海边是凌乱的碎石，并没有沙滩。穿上脚蹼，背上几十斤重的装备下水，水下的景致如此美妙，而我却只关心我的眼罩到底进水了没有，一切在手忙脚乱中度过。潜水的前一天，本来约了滑翔伞，谁知道整个下午都没有风，只能作罢，于是壮志未酬，把希望寄托在第二天的潜水，本来潜两次改为了三次，谁知道这是一切的伏笔。第二次下潜便是沉船，旁边有很多潜水员，这种情形称之为”潜水员风暴“。当然我是不介意的，只知道万一我出事了有更多人能救救我。在船舱驻足，教练让我在半空中摆拍，这个动作在水下让我呼吸不上来，景色不错，我只想早点上岸。</p><p><img src="https://lover-1304073984.cos.ap-nanjing.myqcloud.com/love/IMG_5067%20(1).jpeg" alt="image-20230104201620779" style="zoom:20%;" /></p><center>    <div style="color:orange;    display: inline-block;    color: #999;    padding: 2px;">最好吃的炒面    </div></center><p>终于可以休息会，一早醒来什么都没吃，就潜了两次，还是比较费精力的，教练送来了午饭，印尼炒面+水+水果，只能说堪称我吃过最好吃的炒面，因为我实在饿的不行了。</p><p>第三次下潜是在一片海中峭壁，这次我是真的精力不足了，潜着潜着，我竟然忘记了呼吸阀要用嘴巴咬住，只是含住吸气，这时候教练让我看崖壁的风景，我头一转，呼吸阀便吐了出去，猛喝两口水。人在水下遇到这种情况的慌乱是无以复加的，我只觉得大脑一白，自己要交代在这了。这时候教练没慌张，只是引导我重新戴上呼吸阀，并且给我的呼吸阀排水，终于恢复了呼吸。之后教练开始水下军训我，让我复刻了一遍排水、换气阀的全套流程，而我心里只想着赶紧上去，朝教练打要上浮的手势，教练不同意，硬生生走完了最后一段，也算是圆满结束，除了我连打嗝都是大海的味道。</p><p><img src="https://lover-1304073984.cos.ap-nanjing.myqcloud.com/love/IMG_5606%20(1).jpeg" alt="image-20230104201620779" style="zoom:20%;" /></p><center>    <div style="color:orange;    display: inline-block;    color: #999;    padding: 2px;">冲浪沙滩    </div></center><p>潜水完还不过瘾，因为之后就是在巴厘岛的最后一天了，决定一大早去冲浪。冲浪教练简直是我们遇到的英语最好的印尼人，打听才知道他有一个匈牙利妻子，典型的beach boy人设。练了会划水和上下板就下水了。本旱鸭子穿着救生衣冲浪，成为了靓丽的风景线，全沙滩就我一个这样的。冲浪的流程是先要往海的深处游，之后等浪来的时候迅速拨水同步速度，最后撑板站起来，跟着浪头起步。站起来是很难的一步，试了好多遍才成功了一次，爽的感觉是无以复加的，只能说感谢我的救生衣了。来回了四五次，我已经精疲力尽，给教练说我要提前结束课程，于是我在板上往岸边划，只觉得岸边是如此遥远，怎么划都划不到头。上岸后坐在沙滩上瘫痪，中午休息一下就要离开巴厘岛了。</p><p><img src="https://lover-1304073984.cos.ap-nanjing.myqcloud.com/love/IMG_5169%20(1).jpeg" alt="image-20230104201620779" style="zoom:20%;" /></p><center>    <div style="color:orange;    display: inline-block;    color: #999;    padding: 2px;">半夜爬山    </div></center><p><img src="https://lover-1304073984.cos.ap-nanjing.myqcloud.com/love/IMG_5207%20(1).jpeg" alt="image-20230104201620779" style="zoom:20%;" /></p><center>    <div style="color:orange;    display: inline-block;    color: #999;    padding: 2px;">迎接日出    </div></center><p>下午坐上离开巴厘岛的飞机，前往泗水，那里是两座有名火山的所在地，bromo与ijen。鉴于印尼航空的尿性，晚点是在正常不过的，晚点牺牲掉了我们到酒店后的休息时间。直接开了6个小时前往ijen。月明星稀，向导一边带路一边向我们推销他们的人力板车，说爬山太辛苦，实在不行掏点钱让他们拖上去。这是一种很苦的活计，也是当地人的一大收入来源，需要在二三十度的坡上用车拉人上山，自己爬着都体力不支，何况拉着人走几小时的脚程，深深respect。当然，向导越劝我坐，我是越不会坐的，坐了显得我不行，丢面儿。于是我气喘吁吁、步履蹒跚，吊着一口气终于到了山顶，同时是困饿冷交加，拍了些照片留念，就又徒步下山休息了。ijen确实还蛮漂亮，但我早上这时候只想休息。</p><p><img src="https://lover-1304073984.cos.ap-nanjing.myqcloud.com/love/IMG_5353%20(1).jpeg" alt="image-20230104201620779" style="zoom:20%;" /></p><center>    <div style="color:orange;    display: inline-block;    color: #999;    padding: 2px;">bromo日出    </div></center><p><img src="https://lover-1304073984.cos.ap-nanjing.myqcloud.com/love/IMG_5363%20(1).jpeg" alt="image-20230104201620779" style="zoom:20%;" /></p><center>    <div style="color:orange;    display: inline-block;    color: #999;    padding: 2px;">冒烟了    </div></center><p><img src="https://lover-1304073984.cos.ap-nanjing.myqcloud.com/love/IMG_5460%20(1).jpeg" alt="image-20230104201620779" style="zoom:20%;" /></p><center>    <div style="color:orange;    display: inline-block;    color: #999;    padding: 2px;">日出后    </div></center><p><img src="https://lover-1304073984.cos.ap-nanjing.myqcloud.com/love/IMG_5479%20(1).jpeg" alt="image-20230104201620779" style="zoom:20%;" /></p><center>    <div style="color:orange;    display: inline-block;    color: #999;    padding: 2px;">bromo骑马    </div></center><p>最后则是bromo，我只能说不虚此行。当我还是个中二理想背包客时，被奉为圭臬的书，亦是被称”旅行者的圣经“的书————《孤独星球》曾把bromo列为世界上必去的几大风景之一。爬山难度相对柔和，山脚下会有吉普载着在火山灰中穿行，月光泄地，火山静默着，时而被车痕激起一片尘埃，有些月球表面的意味。最后一堆人在山顶等日出，太阳在东边徐徐升起，火山这时也吐了个烟圈，金色的烟雾交相辉映。复杂的地貌勾勒出片片沟壑，一切如此清晰，翠绿、金黄、灰白，涂抹在一起，成了我见过最美的日出。</p>]]>
+    </content>
+    <id>http://sxhlmy.love/2023/10/19/%E6%B5%81%E6%B0%B4%E8%B4%A6%E4%B8%8E%E5%B7%B4%E5%8E%98%E5%B2%9B/</id>
+    <link href="http://sxhlmy.love/2023/10/19/%E6%B5%81%E6%B0%B4%E8%B4%A6%E4%B8%8E%E5%B7%B4%E5%8E%98%E5%B2%9B/"/>
+    <published>2023-10-18T16:34:49.000Z</published>
+    <summary>
+      <![CDATA[<p>很久不写博客，一是生活忙碌且无聊，而是有时有想记录下来的事情，却又总忘记。这次便索性把最近的事情、经历、感悟都如流水账一样记下。</p>
+<p>这学期的开始还比较轻松，属于是每天舒舒服服完成工作，晚上还能空出些时间打打游戏、刷刷视频，好不美哉，每个周末还有精力做顿大餐，甚至]]>
+    </summary>
+    <title>流水账与巴厘岛</title>
+    <updated>2025-11-26T15:45:15.481Z</updated>
   </entry>
-  
   <entry>
-    <title>随笔</title>
-    <link href="http://sxhlmy.love/2023/03/18/%E9%9A%8F%E7%AC%94/"/>
-    <id>http://sxhlmy.love/2023/03/18/%E9%9A%8F%E7%AC%94/</id>
-    <published>2023-03-18T11:49:12.000Z</published>
-    <updated>2025-11-26T15:45:34.344Z</updated>
-    
-    <content type="html"><![CDATA[<p> &ensp;&ensp;&ensp;&ensp;最近的日子平平淡淡，主要干的事就是做些学生该做的事，同时看些自己感兴趣的知识。</p><p> &ensp;&ensp;&ensp;&ensp;自从毕业后已经很少写代码、看文档。以至于一度觉得自己和程序员这个职业有了些不可名状的沟壑，像是觉得自己不够热爱，有时又觉得过于劳累。其实终究是过得太舒适，懒于探索、懒于练习，自己离人生的迷茫期还差得远，只是些懒人的无病呻吟。开学了之后几乎就没有这种感觉了，精力更倾向于放在未来职业方向的选择上，譬如写哪种语言、做什么方向之类的。程序员这个职业是需要打磨的，熬夜去解决一些奇奇怪怪的问题，或是对新技术做出些简单的尝试，都会使自己有所裨益。最开心的一件事是自己终于又进入了对于探索而热忱的状态中，那种灵感爆发一气呵成解决问题而产生的多巴胺真是令人难忘。   </p> <p> &ensp;&ensp;&ensp;&ensp; 另一件事是看完了整个魏晋南北朝的历史。其实从小学到初中、高中，再到现在。个人的史观是一个不断立体化的过程，一开始对于历史人物的认知总是扁平化的，某人有大功绩、才略卓群或是武德充沛，相反的，也有某人荒淫无道、取用无度。一个个人物脸谱，在戏剧中赋予了不同的颜色。而后知道了些粗略的细节，觉得有些所谓暴君或是佞臣，其实也在某些角度干了些好事，而有些人也有些过誉、言过其实，也就是历史书上简单的正反面品评而已。直至细细品评时间的来龙去脉，历史的细节，感觉才变得生动立体起来。南北朝是个混乱的时代，民族融合、宗教传播、各国征伐、阴谋构陷、旁支篡位夹杂其中。</p><p>  &ensp;&ensp;&ensp;&ensp;人想要于史书中留名，是很难的，尤其是留下些正向的评价。为臣，倘若想要为国尽忠，一面要构想如何谏言除弊，同时要于门阀间立足，站对队伍。谨言慎行，一言一行都可能被构陷，轻则贬官流放，重则身死。同时也要有能力一展抱负，精于文略，或武力过人。为君，有时更难，需要平衡王亲与外戚、前来归顺的割据势力，稳定权利。倘要有所作为，要有改革的魄力，说服或压制利益贬损群体，施行恰当的政策。其实对君主来说，躺平是相当省事的方式，每天听大臣吹彩虹屁，没事就打猎设宴和妃子玩乐就好。但想要有所作为则是反人性的，要求你割裂或限制这一切享受的行为，投身于民生、国力的宏大叙事中。身为君主，不仅在于个人才干，更在时局，不难看到很多有主见、有理想的少年君主，囿于外戚或权臣摄政，郁郁而终或被杀，成为史书上寥寥几笔。对于一般人来说，较于创造些功绩而名留青史，更多是选择些更为轻松的路途。  </p>  <p>  &ensp;&ensp;&ensp;&ensp;不得不说，儒学的有些话在古代的语境下也是正确的，虽总说是对人性的压制与抹杀，但这在某些时候也是必要的，尤其是想超脱于常人境界时。“存天理，去人欲”，做到了堪称圣人。很多人认为孔明过誉，我现在一点也不这么认为。位极人臣，幼子继位且羸弱，倘若他想篡权，只是动一下想法的事。南北朝数不清的权臣这么做了，出于不同的原因，立国之私欲、为了保全自己的家族，比比皆是。萧道成这么做了、宇文泰这么做了、杨坚也这么做了，很多没有成功改朝换代的人也这么做了。宗室也大多遭诛杀殆尽。这时总有种道德的幻灭感，因为混乱在这时代总是常态，而之后的功绩与成就又让这一切变得合理起来，除了宗室也不会有人指摘什么，只因大家都这样做。但诸葛亮是不同的，即便知道禅让于己合情合理，即便知道自己登基蜀国能有更好的处境，但这不是他的选择。世上并未出现诸葛代蜀，而是留下“今当远离，临表涕零，不知所言”，纸上寥寥几言，让他真正超脱于人性，成为历代清流的精神表征。出师一表真名世，千载谁堪伯仲间。海海千年，未有几人堪比也。  </p>  <p>  &ensp;&ensp;&ensp;&ensp;此外就是，历史的真相似乎真的不可探查。能知晓的也许只有大概的脉络而已。人们总说，南北朝的皇帝疯子多。太多荒谬之事发生在此时。在饥荒只有“天大旱，人相食”记载的史书中，某些皇帝的罪责则被长篇大论的记载与叙述。譬如北朝高欢之后似乎一个正常人也没有，而南朝萧宝卷、刘子业也是令人发指。其荒淫无道的程度的确是超出常人之认知，但究竟几分真假，不得而知，其中的春秋笔法也是难以辨识。不过终究也是时代中的混乱之缩影了。</p><p>  &ensp;&ensp;&ensp;&ensp;历史烟尘滚滚，作为普通人不由得要被时代裹挟而去，一如帝王将相们，泛入烟尘中，随风而去。古今多少事，都付笑谈中。     </p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;p&gt;
- &amp;ensp;&amp;ensp;&amp;ensp;&amp;ensp;最近的日子平平淡淡，主要干的事就是做些学生该做的事，同时看些自己感兴趣的知识。
-&lt;/p&gt;
-&lt;p&gt;
- &amp;ensp;&amp;ensp;&amp;ensp;&amp;ensp;自从毕业后已经很少写代码、看文档。以至于一度觉得自己和程序员这个职业有了些</summary>
-      
-    
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title>咖啡馆、拍立得店、有缘无分的猫</title>
-    <link href="http://sxhlmy.love/2023/03/17/%E6%8B%8D%E7%AB%8B%E5%BE%97%E5%BA%97%E3%80%81%E6%9C%89%E7%BC%98%E6%97%A0%E5%88%86%E7%9A%84%E7%8C%AB/"/>
-    <id>http://sxhlmy.love/2023/03/17/%E6%8B%8D%E7%AB%8B%E5%BE%97%E5%BA%97%E3%80%81%E6%9C%89%E7%BC%98%E6%97%A0%E5%88%86%E7%9A%84%E7%8C%AB/</id>
-    <published>2023-03-17T06:16:20.000Z</published>
-    <updated>2022-12-15T11:44:52.000Z</updated>
-    
-    <content type="html"><![CDATA[<p><img src="https://lover-1304073984.cos.ap-nanjing.myqcloud.com/love/image-20221210003034215.png" alt="image-20221210003034215" style="zoom:14%;" /></p><center><div style="color:orange;    display: inline-block;    color: #999;    padding: 2px;">你小子</div></center><p>&ensp;&ensp;&ensp;&ensp;前天太累了，拖更到两天后的晚上才写。</p><p>&ensp;&ensp;&ensp;&ensp;一夜之间，似乎各处媒体、报刊，都写满了放开两个字，身边有阳性也不再是什么稀奇的事，各处的核酸点被撤掉，公共交通与设施也不再检查核酸，一切都在向以前的方向发展。老婆也迎来了一个难得的休息日，我们约定去大兴善寺，想着进去无论是参佛，或者拍拍照、看看大乌龟，也都是不错的消遣。穿过西安的中轴线、穿过街上恢复息壤的行人、穿过兴善寺街，横亘在面前的是一片贴在门上的红纸：“今日不开放”。作罢。</p><img src="https://lover-1304073984.cos.ap-nanjing.myqcloud.com/love/image-20221210140558746.png" alt="image-20221210140558746" style="zoom: 13%;" /><center><div style="color:orange;    display: inline-block;    color: #999;    padding: 2px;">新疆</div></center><p>&ensp;&ensp;&ensp;&ensp;我难得得带了相机出门，用来干什么不言而喻。相机是在去新疆之前买的，总是在家落灰，想着记录自己一路上看到的风物人情，不幸的是所及景致基本都是阴天，套机镜头光圈又不够使，鲜有满意的照片。本想着可能还能出去转转，定了个70-300的长焦，奈何富士老板忘了我，新疆、西藏的景色也忘了我。终于有朝一日它能派上用场————用来拍爱的人。</p><img src="https://lover-1304073984.cos.ap-nanjing.myqcloud.com/love/image-20221210002934774.png" alt="image-20221210002934774" style="zoom:15%;" /><center><div style="color:orange;    display: inline-block;    color: #999;    padding: 2px;">咖啡馆</div></center><p>&ensp;&ensp;&ensp;&ensp;大兴善寺关门，转而去了旁边的一家咖啡馆，在大众点评上还算蛮有名气。点了提拉米苏舒芙蕾，还不错，但酒浸的葡萄干有点苦苦的，略怪。在这里给宝宝拍了一些照片，但老虚焦（富士对焦真的很对不起他的价格），宝宝也给我拍了些，说这是个很好玩的相机。之后我们在小寨附近散步，想干一些以前没干过的事，刷到一家拍拍立得的店，果断出发GOGOGO!</p><p><img src="https://lover-1304073984.cos.ap-nanjing.myqcloud.com/love/image-20221211192249764.png" alt="image-20221211192249764" style="zoom: 15%;" /></p><center><div style="color:orange;    display: inline-block;    color: #999;    padding: 2px;">拍立得照片</div></center><p>&ensp;&ensp;&ensp;&ensp;不得不说，拍立得店真的是段蛮有意思的体验，想想我们在一起那么久，竟然都没有别人帮忙拍的合照，真是可惜。店里遍布着别出心裁的小摆件，几面墙挂满了大家留下的拍立得照片，有二人合照、单人肖像、有喜悦的、有忧伤的。我们试了很多不同的配饰，不同的帽子，拍出了一些满意的照片。（当然我给宝宝拍的照片宝宝不满意）</p><p><img src="https://lover-1304073984.cos.ap-nanjing.myqcloud.com/love/image-20221211192902816.png" alt="image-20221211192902816" style="zoom:15%;" /></p><center><div style="color:orange;    display: inline-block;    color: #999;    padding: 2px;">正在引诱猫的小哥</div></center><p>&ensp;&ensp;&ensp;&ensp;拍完照片，去吃了顿绿茶，就去找地方贴贴。走到环城公园旁边、护城河上，两个人亲昵的忘我时，听到几声猫叫。细看一只年纪小小的英短正在护城河的河基旁，向人求助，我本来想下去施救，奈何受制于我笨拙的躯体，又是唐唐的爬了上去。最后叫了个跑腿小哥来救猫，猫咪看似亲人，小哥一下去却是吓了一大跳，兀自到处跑来跑去，最后自己跑进了排水口里。小哥把食物放在了外面，想必它也能多撑几天吧，或者直接从排水口出逃也不一定，总之希望有缘无分的小猫有个自由且美好的未来吧。</p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;p&gt;&lt;img src=&quot;https://lover-1304073984.cos.ap-nanjing.myqcloud.com/love/image-20221210003034215.png&quot; alt=&quot;image-20221210003034215&quot; style=&quot;zoo</summary>
-      
-    
-    
-    
-    <category term="日常" scheme="http://sxhlmy.love/categories/%E6%97%A5%E5%B8%B8/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>Hello World</title>
-    <link href="http://sxhlmy.love/2023/03/17/hello-world/"/>
-    <id>http://sxhlmy.love/2023/03/17/hello-world/</id>
-    <published>2023-03-17T06:16:20.000Z</published>
-    <updated>2022-11-20T12:10:22.000Z</updated>
-    
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><pre><code class="lang-bash">$ hexo new &quot;My New Post&quot;</code></pre><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><pre><code class="lang-bash">$ hexo server</code></pre><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><pre><code class="lang-bash">$ hexo generate</code></pre><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><pre><code class="lang-bash">$ hexo deploy</code></pre><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for</summary>
-      
-    
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title>近日纪闻</title>
-    <link href="http://sxhlmy.love/2023/02/21/%E8%BF%91%E6%97%A5%E7%BA%AA%E9%97%BB/"/>
-    <id>http://sxhlmy.love/2023/02/21/%E8%BF%91%E6%97%A5%E7%BA%AA%E9%97%BB/</id>
-    <published>2023-02-20T16:40:58.000Z</published>
-    <updated>2023-02-21T14:07:22.000Z</updated>
-    
-    <content type="html"><![CDATA[<p> &ensp;&ensp;&ensp;&ensp;今天是2月21，离情人节已经过去了一个礼拜，而我也已经和宝宝分开一周了。在这一周里，我进入了一种截然不同，却也没有什么割裂感的文化环境中，也陷入了对宝宝的思念。 </p><p> &ensp;&ensp;&ensp;&ensp;墨尔本的天气总是晴朗，南半球强烈的阳光透过云层映在大地上，照的人睁不开眼。之前总看到别人写留学的前几个月如何艰难的去融入不同的环境、如何克服种种困难，但我似乎鲜有这种感受，或许是因为华人已经不少，四处都是亚超、中餐厅、中文服务，或许是因为准备了很多，订好了带家具的房子、找了性格很好的室友，也可能是人们都很友善，都在帮助着新来客。之前来澳洲只是觉得好玩，人们友善、也风景异致。这次也有些不同的感受，可能一言以蔽之，就是和而不同，不同种群的人互相尊重，至少表面上互相友善，同时各个种群又各自抱团，彼此做自己的事，互不打扰。这种感受其实在中国，一个有主体民族大一统国家是鲜少体会到的，这也是一个主要单民族国家和移民国家的差异。移民可以为国家注入源源不断地劳动力、资本、创新能力，也能成为一些社会矛盾的激发点、让整个社会更松散。都是出于意识形态做出的不同的选择，一个换取更大的统一性、做到更好的集体主义与一致性，一个换取国家良好的人口结构与源动力。（胡说ing） </p><p> &ensp;&ensp;&ensp;&ensp;大学生活也有蛮多不同，虽然还没体会多少。今天刚去了社团招新，不得不说人家的体育氛围是真的好，从三大球到各种稀奇古怪的小众运动，都会有相应的社团、丰富的活动，甚至有自己的域名。迎新活动也很多白吃白喝的地方，总之来说，感觉比起某些理科学校，确实是人家办活动更认真、也更富裕。 </p><p> &ensp;&ensp;&ensp;&ensp;宝宝时常做一些噩梦，不知道有了我的捕梦网会不会好些。宝宝也有时担心我们的关系，我希望宝宝一个人能好好生活，当然和我一起更幸福更好，嘿嘿，总之少担心我这边情绪什么的啦。</p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;p&gt;
- &amp;ensp;&amp;ensp;&amp;ensp;&amp;ensp;今天是2月21，离情人节已经过去了一个礼拜，而我也已经和宝宝分开一周了。在这一周里，我进入了一种截然不同，却也没有什么割裂感的文化环境中，也陷入了对宝宝的思念。
- &lt;/p&gt;
-
-&lt;p&gt;
- &amp;ensp;&amp;ensp;&amp;ensp;</summary>
-      
-    
-    
-    
-    <category term="随笔" scheme="http://sxhlmy.love/categories/essay/"/>
-    
-    
-    <category term="奇妙体验" scheme="http://sxhlmy.love/tags/%E5%A5%87%E5%A6%99%E4%BD%93%E9%AA%8C/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>高新一日游</title>
-    <link href="http://sxhlmy.love/2023/02/12/%E9%AB%98%E6%96%B0%E4%B8%80%E6%97%A5%E6%B8%B8/"/>
-    <id>http://sxhlmy.love/2023/02/12/%E9%AB%98%E6%96%B0%E4%B8%80%E6%97%A5%E6%B8%B8/</id>
-    <published>2023-02-11T16:10:31.000Z</published>
-    <updated>2023-02-21T10:22:16.000Z</updated>
-    
-    <content type="html"><![CDATA[ <p> &ensp;&ensp;&ensp;&ensp;今天约好了和宝宝提前过情人节。酒店和待遇自然要选最好的，于是就丽思卡尔顿+行政待遇一条龙啦！可惜宝宝的身份证被妈妈拿去办事，过了天无证人的生活。下午我办好入住，接宝宝来房间，房间做了些简单布置，放了些气球、欢迎水果、小甜点。 </p> <p> &ensp;&ensp;&ensp;&ensp;丽思号称一天五顿，可惜我们只得五分之三，因为晚上要回家，那么首先就是下午茶了。 </p><p><img src="https://lover-1304073984.cos.ap-nanjing.myqcloud.com/love/image-20230212004301162.png" alt="image-20230212004301162" style="zoom: 33%;" /></p><center><div style="color:orange;    display: inline-block;    color: #999;    padding: 2px;">下午茶</div></center> <p> &ensp;&ensp;&ensp;&ensp;只能说味道是一言难尽，咸点可谓味道寡淡、或是口感奇特，甜点则有点用力过猛，不过倒是比咸点好些。唯一好吃的就是司康了，真的还不错。之后回到房间，宝宝换了身衣服，和订的蛋糕合照，这个蛋糕看似人畜无害，实则万恶之源，商家大概使用竹炭或是墨鱼汁来调色，奶油缺少香气，却多了不少苦味，属于是金玉其外败絮其中了。再者不知怎么的，衣服和鞋上都沾上了黑奶油，沾的地毯、床单上到处都是，为了保护我的押金，宝宝和我一起当了一个小时清洁工，一个洗床单、一个擦地板，属于受大苦了。 </p><p><img src="https://lover-1304073984.cos.ap-nanjing.myqcloud.com/love/image-20230212005339453.png" alt="image-20230212005339453" style="zoom:25%;" /></p><center><div style="color:orange;    display: inline-block;    color: #999;    padding: 2px;">宝宝美照</div></center><p><img src="https://lover-1304073984.cos.ap-nanjing.myqcloud.com/love/image-20230212004046688.png" alt="image-20230212004046688" style="zoom: 15%;" /></p><center><div style="color:orange;    display: inline-block;    color: #999;    padding: 2px;">万恶之源的蛋糕 不过照片倒是挺好看</div></center><p><img src="https://lover-1304073984.cos.ap-nanjing.myqcloud.com/love/image-20230212004959205.png" alt="image-20230212004959205" style="zoom: 33%;" /></p><center><div style="color:orange;    display: inline-block;    color: #999;    padding: 2px;">晾床单ing</div></center> <p> &ensp;&ensp;&ensp;&ensp;但不得不说，下午一起躺着的时候真的好舒服，酒店的床品太棒啦！！！关掉灯，窗外下着小雨，缝隙里透出些微弱昏暗的光线，更添几分静谧的氛围，人也跟着倦了。 </p><p><img src="https://lover-1304073984.cos.ap-nanjing.myqcloud.com/love/image-20230212005242411.png" alt="image-20230212005242411" style="zoom:15%;" /></p><center><div style="color:orange;    display: inline-block;    color: #999;    padding: 2px;">下午</div></center> <p> &ensp;&ensp;&ensp;&ensp;晚上九点半退房回家，前台惊讶于为什么这么早退房，打到车的司机像是不会开车一样，小心翼翼，左顾右盼，慢慢悠悠，最后还开错了路，还不如我开。总之是开心且水逆的一天，希望一切能好起来。 </p>]]></content>
-    
-    
-      
-      
-    <summary type="html"> &lt;p&gt;
- &amp;ensp;&amp;ensp;&amp;ensp;&amp;ensp;今天约好了和宝宝提前过情人节。酒店和待遇自然要选最好的，于是就丽思卡尔顿+行政待遇一条龙啦！可惜宝宝的身份证被妈妈拿去办事，过了天无证人的生活。下午我办好入住，接宝宝来房间，房间做了些简单布置，放了些气球、欢迎水果、小甜</summary>
-      
-    
-    
-    
-    <category term="date" scheme="http://sxhlmy.love/categories/date/"/>
-    
-    
-    <category term="奇妙体验" scheme="http://sxhlmy.love/tags/%E5%A5%87%E5%A6%99%E4%BD%93%E9%AA%8C/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>深夜随笔</title>
-    <link href="http://sxhlmy.love/2023/01/28/%E6%B7%B1%E5%A4%9C%E9%9A%8F%E7%AC%94/"/>
-    <id>http://sxhlmy.love/2023/01/28/%E6%B7%B1%E5%A4%9C%E9%9A%8F%E7%AC%94/</id>
-    <published>2023-01-27T20:26:04.000Z</published>
-    <updated>2023-02-11T16:15:08.000Z</updated>
-    
-    <content type="html"><![CDATA[ <p> &ensp;&ensp;&ensp;&ensp;上次更新还是在一月十六号，原本以为我会恢复之前的更新频率，但现在已经是一月二十八日的的凌晨了。过去的这段日子里，宝宝发了好几天烧，原因不明，好在医生说没有什么异样，宝宝也算恢复了健康，从此开始笃信不可吃斋饭，及时补充蛋白质与维生素，坚持锻炼，塑造一个健康的躯体才是根本。 </p> <p> &ensp;&ensp;&ensp;&ensp;写下的时候已是大年初七，红色的灯火依然映在城市上空，零星夹杂些爆竹声与绽放的花火，但游客几乎散去，西安的街上恢复了几分寂寥的光景。细数这段日子，我们也共同做了许多事。泡温泉总是我对你提起的一个倡议与活动，但由于一些家庭规定的原因，宝宝很难在外过夜，就一直搁置，最后宝宝索性带我在城里泡了，之前是真的不知道城里还有这种“私汤”的存在。小小的房间里一应俱全，一池水蒸腾着热气，池头甚至还有一个造景。我们在池中相拥、亲吻、合照，完成了小小的愿望。美中不足的是氤氲在狭小室内的热气由于通风不足而让人头脑发昏，只得早早离去。我们还在老菜场吃到了很一般的提拉米苏，咸咸的汉堡。 </p> <p> &ensp;&ensp;&ensp;&ensp;正值春节档，电影自然也是少不了的。影院反常的座无虚席，议论声、电影声、小孩发疯声，在耳畔回荡着。《流浪地球2》可谓对我来说算是一个惊喜，本来觉得凑活陪家人看看也没什么，但影片质量真的出乎意料的高，其中的太空电梯、空战、行星推进器，让我想起第一次看到星球大战的激动，再不济，中国电影的工业化也上了个等级，我很兴奋。剧情其实还是经典的拯救地球套路，编年体的叙事也造成了一些混乱，但瑕不掩瑜，中国的科幻这个可排第一，没什么好争议的。当然，也和宝宝看了《满江红》，不得不说是十分过誉了，饭圈文化的泛滥、自媒体的瞎捧、对赌协议的裹挟，造就了一个笑点不好笑、偷票房、剧情奇怪的及格商业片。真想扇那些说好久没看到这么好看的电影的人，没事多看看电影，甚至柯南都行，不要没墨水就出来瞎bb。 </p> <p> &ensp;&ensp;&ensp;&ensp;另外一个我想谈的，应该是变化。高中毕业已有四年余，曾经的同学们有的升学、有的工作、有的早早结婚，大家多少从不经人事的学生变成了承担些社会责任的成年人。ryan从高中的多情浪子，变成了个万花丛中过的老处男，不变的是天天想恋爱。dty继承了一向兴旺的运势，当了清华人上人，性格从e变i，因为什么呢，或许是对象，或许是实验室里的派系纷争，我也不知道。李晨豪从当时的数学少年，变成了求爱不得的失意人，背甚至都佝偻了些，也变得不爱说话。我想说，少年心气是真的很容易遗失的，遗失在不得不面对的人情社会里，遗失在失败的感情、失业中，遗失在社会大潮的变化里，大家或多或少的颓唐了起来。希望宝宝能一直保持本心，做些想做的事就好。 </p>]]></content>
-    
-    
-      
-      
-    <summary type="html"> &lt;p&gt;
- &amp;ensp;&amp;ensp;&amp;ensp;&amp;ensp;上次更新还是在一月十六号，原本以为我会恢复之前的更新频率，但现在已经是一月二十八日的的凌晨了。过去的这段日子里，宝宝发了好几天烧，原因不明，好在医生说没有什么异样，宝宝也算恢复了健康，从此开始笃信不可吃斋饭，及时补充蛋白</summary>
-      
-    
-    
-    
-    
+    <author>
+      <name>SOFILIPA</name>
+    </author>
     <category term="随笔" scheme="http://sxhlmy.love/tags/%E9%9A%8F%E7%AC%94/"/>
-    
+    <content>
+      <![CDATA[<p> &ensp;&ensp;&ensp;&ensp;世界末日算周杰伦一首蛮冷门的歌，当然对于狂热粉丝可能也不算，但他其实是我听周杰伦最久、或许也是最多的一首歌了。每每听到这首歌，我会想起live现场脱掉衣服的青涩杰伦，粉丝在台下的尖叫，以及一个人，许久未见的人。</p><p> &ensp;&ensp;&ensp;&ensp;那时大概是三四年级的样子，正值童年的夏天，总是漫长，每天看几集爸妈给我买的很多页分装的DVD，和伙伴在小区骑会单车，吹着空调入睡，又是一天过去。当然，作业也是少不了的，彼时的我已经开始每周末的奥数班了，当时数学对我来说快乐总体还是大于痛苦的。小时候我总会和一些我爸生意伙伴的家庭有所交集，我也就这么认识了鲍叔叔一家。鲍叔叔是个包工头，身材不高，长得胖胖的，挺着个不大不小的肚子，面容也说不上和善，满脸横肉，一只眼睛大概是看不见或是视力很差了，泛着白色。但鲍叔叔的性格却是很亲和，每次都给我们做他的拿手菜毛氏红烧肉，浓油赤酱，肥瘦相间，别有番风味。鲍叔叔有一个儿子，一个女儿。当然了，年级都比我大些，其中女儿又比儿子大些，是姐姐，名字叫鲍章玲（也许，但发音是这样的），在西安本地上大学，弟弟名字叫鲍章伟。他们一家也许是出于孩子上学的考虑，亦或是听了些我爸的劝说，都来了西安，而且和我们家住在一个小区里。当时他们来西安做的第一件事说来有趣，或许是为了体验风土人情，或许是单纯觉得有意思，他们去当了次百家碎戏的群演，在镜头旁边吃了两个小时的面，也算是少有的体验了。 </p> <p> &ensp;&ensp;&ensp;&ensp; 在同一个小区待着，自然是互有往来，我没事和dty经常往鲍叔叔家跑，自然也都熟络了起来，鲍章玲姐姐时常要去上学，在家的时间有限，是不是被弟弟调侃些关于感情状况的玩笑。鲍章伟哥哥，其实相当于是高二的年纪，但他并不在上学，或许是鲍叔叔正在给他找一所接受转学生的学校，或许是在给他谋求一个别的出路。鲍章伟哥哥没来多久，家里就配上了电脑，这也是我们喜欢去他家的原因之一，身为小学生，本人的电子产品使用时间是被严重限制的，尤其是电脑，大概是一周两三个小时的样子，取决于我奶奶有没有严格执行。对比之下，鲍叔叔家此时恰似一方乐土，是我的理想国。鲍章伟哥哥无疑是个宅男了，长得高高瘦瘦，说帅也是有一点的，每天的生活主要围绕电脑展开，最大的乐趣是边听着qq音乐的桌面滚动歌词，边打打DNF或者一些复古的街机游戏，最爱的电影是古惑仔系列。而我和dty总在他的电脑旁边候着，哥哥也总会给我们玩的机会，几个人用一个键盘一起玩些游戏，不亦乐乎。我问他为什么喜欢些黑社会电影，他说没什么，就是觉得很酷。这其实与他的性格还是蛮有反差，他对我们很好，待人接物也富于礼貌，很难把他与古惑仔关联起来，倒不如说他仍有颗狂野的内心。当然，除了些基本的娱乐活动，鲍章伟哥哥也是有感情世界的，我们俩守候在他的电脑桌旁，对着qq列表里的闪烁头像，了解的一清二楚，记得一位姐姐的名字叫“万莹莹“，还有位好像叫”王蓉“，记不清了，大概是哥哥以前的高中同学，每天都和他聊天，聊些有的没的。当然，具体的细节我也不是很清楚，这方面鲍哥哥有时还是对我们遮掩一下，说我们是小孩子，不懂这些，我的小小脑袋瓜相信他们是互有好感的。鲍哥哥的歌单总是些古惑仔的主题曲，什么刀光剑影、友情岁月，间或夹杂些流行歌曲。哥哥时而也会发表些锐评，把许嵩叫做许山睾，说他虽然抄袭，但是他还是蛮喜欢他的玫瑰花的葬礼。说李宇春被叫春哥都是些无聊的炒作之类的。有段时间，感觉哥哥的心情不太好，与列表里的两位姐姐说话也少了，我问他为什么不和万莹莹在一起，他说那是不可能的，都已经是过去了，我不知道哥哥的脑子里在想些什么，男女关系对于当时的我还是过于复杂，只知道哥哥可能是有些失落了，那是他的电脑里常放着一首歌，”天灰灰　会不会　让我忘了你是谁 夜越黑　梦违背　难追难回味“，他说那是他唯一觉得周杰伦好听的歌，那就是世界末日。所以一听到这首歌我就会想起鲍哥哥，想起他列表里的那几个姐姐，想起他告诫我们好好读书，想起我们一起守在电脑边度过的日子。那是夏天，蝉鸣不休，好像一切永远都不会过去，也不会停止，鲍哥哥会有好的爱情，我和dty会有好的成绩，在夏天里。 </p> <p>    &ensp;&ensp;&ensp;&ensp;夏天很快过去，鲍哥哥没有好的爱情，我和dty没有好的成绩，爸妈也因为这点不让我频繁的去鲍叔叔家了。鲍叔叔也为鲍哥哥谋求到了出路——鲍哥哥要去当兵了。最后一次见他是在车上，给他去买些当兵的行李铺盖什么的，鲍哥哥依旧对我们很好，问我们想不想吃好吃的，说自己要去当兵了。我在依旧在上些无聊的奥数班，dty在家看些金庸和假面骑士，载着鲍哥哥的车一路西行。之后不知怎么的，与鲍叔叔一家似乎也没了什么交集，听到鲍哥哥的消息已经是几年后，他已经是老兵，叔叔给他托关系换了军区，大概也有了些职位，再也没有回西安。童年的夏天总是漫长，却也背驰而去，一如载着鲍哥哥的列车，不再回头。只是每当响起世界末日，我总会想起他，想起些夏天的见闻。谨以此文纪念些童年时光，同时祝鲍哥哥一切安好。    </p>]]>
+    </content>
+    <id>http://sxhlmy.love/2023/05/29/%E4%B8%96%E7%95%8C%E6%9C%AB%E6%97%A5/</id>
+    <link href="http://sxhlmy.love/2023/05/29/%E4%B8%96%E7%95%8C%E6%9C%AB%E6%97%A5/"/>
+    <published>2023-05-28T18:59:11.000Z</published>
+    <summary>
+      <![CDATA[<p>
+ &ensp;&ensp;&ensp;&ensp;
+世界末日算周杰伦一首蛮冷门的歌，当然对于狂热粉丝可能也不算，但他其实是我听周杰伦最久、或许也是最多的一首歌了。每每听到这首歌，我会想起live现场脱掉衣服的青涩杰伦，粉丝在台下的尖叫，以及一个人，许久未见的人。
+</p>]]>
+    </summary>
+    <title>世界末日</title>
+    <updated>2025-11-26T15:45:17.524Z</updated>
   </entry>
-  
   <entry>
-    <title>恢复更新！</title>
-    <link href="http://sxhlmy.love/2023/01/16/%E6%81%A2%E5%A4%8D%E6%9B%B4%E6%96%B0%EF%BC%81/"/>
-    <id>http://sxhlmy.love/2023/01/16/%E6%81%A2%E5%A4%8D%E6%9B%B4%E6%96%B0%EF%BC%81/</id>
-    <published>2023-01-16T11:09:17.000Z</published>
-    <updated>2023-02-11T16:41:22.000Z</updated>
-    
-    <content type="html"><![CDATA[ <p> &ensp;&ensp;&ensp;&ensp;最近很久没有更新，或是在蚌埠游走、或是在朋友聚会、或是每天和宝宝在外面待到很晚，以至于回家后累的只能倒在床上休息。西安最近下了雪，南边的雪比北边大些，外面冷冽的天气并不影响大家放炮或烟花，天空中闪烁的光影参差着地面四周红色的点缀，大家一起享受着难得的节日气息。 </p><p><img src="https://lover-1304073984.cos.ap-nanjing.myqcloud.com/love/image-20230116194221204.png" alt="image-20230116194221204" style="zoom: 50%;" /></p><center><div style="color:orange;    display: inline-block;    color: #999;    padding: 2px;">附美照一张</div></center><img src="https://lover-1304073984.cos.ap-nanjing.myqcloud.com/love/5a11-ifvwfti7192416.jpg" alt="谢霆锋张曼玉一起骑单车照片曝光，重温当年甜蜜蜜|甜蜜蜜|张曼玉|谢霆锋_新浪新闻" style="zoom: 67%;" /><center><div style="color:orange;    display: inline-block;    color: #999;    padding: 2px;">甜蜜蜜剧照</div></center> <p> &ensp;&ensp;&ensp;&ensp;说来爱情片还真是不适合我们，不久前说着一起看情人，看到一半得我昏昏欲睡。一些关于老男人和未成年少女的故事上演，至少我们应该还没看到什么精彩片段，没有什么出彩或错愕的感觉，直接结束放映，感觉之前我看的cut里的梁家辉都比电影里好看不少。要说我们看过的较好的爱情片，甜蜜蜜算一部。虽说男女主之间的感情我们不甚理解，但电影的时代映射、符号，配角之间的感情波动，依然能让人为之动容。虽说也有些较为俗套的桥段，但导演的处理让人还比较容易接受。总之好片一部啦，甜蜜蜜的电影与邓丽君一起，都是值得被铭记的。 </p><p><img src="https://lover-1304073984.cos.ap-nanjing.myqcloud.com/love/p2539127687.webp" alt="The Ballad of Buster Scruggs" style="zoom: 110%;" /></p><center><div style="color:orange;    display: inline-block;    color: #999;    padding: 2px;">巴斯特·斯克鲁格斯的歌谣</div></center> <p> &ensp;&ensp;&ensp;&ensp;受够了爱情片的摧残，我挑了部西部片来看。巴斯特·斯克鲁格斯的歌谣，讲了六个美国西部发生的小故事。从写实的到隐喻的，映射出一个时代背景下的人群画像。有传奇神枪手，百余次决斗而无败绩。牛仔一生颠沛想要寻安居之处。也有普通美国白人们为了土地而迁移，与印第安人争斗，失去重要的人，又因为利益而放弃、杀死其他人，最终走向不可抗拒的死亡与终点，成为他人口中的故事、隐于茫茫西迁的车队中，或是葬于荒野的孤冢里。 </p>]]></content>
-    
-    
-      
-      
-    <summary type="html"> &lt;p&gt;
- &amp;ensp;&amp;ensp;&amp;ensp;&amp;ensp;最近很久没有更新，或是在蚌埠游走、或是在朋友聚会、或是每天和宝宝在外面待到很晚，以至于回家后累的只能倒在床上休息。西安最近下了雪，南边的雪比北边大些，外面冷冽的天气并不影响大家放炮或烟花，天空中闪烁的光影参差着地面四周红</summary>
-      
-    
-    
-    
-    <category term="date" scheme="http://sxhlmy.love/categories/date/"/>
-    
-    
-    <category term="美食、奇妙体验" scheme="http://sxhlmy.love/tags/%E7%BE%8E%E9%A3%9F%E3%80%81%E5%A5%87%E5%A6%99%E4%BD%93%E9%AA%8C/"/>
-    
+    <author>
+      <name>SOFILIPA</name>
+    </author>
+    <category term="杂记" scheme="http://sxhlmy.love/tags/%E6%9D%82%E8%AE%B0/"/>
+    <content>
+      <![CDATA[<p> &ensp;&ensp;&ensp;&ensp; 最近是很忙的一段时间，各种课程的作业、论文，让我应接不暇。但凡有些开创、或逻辑性强的工作其实我也是乐意的，但其实常在做些无用的、训练性的、重复的无聊工作。这无疑是对我人格的某种摧残了。当然，在国内受的这种摧残也不少，所以身体倒是有了不少抗性，权当种精神磨炼吧，在那种抗拒、无聊中，照常完成着既定的任务。少数的时间其实也是快乐的，譬如做的项目被客户认可，相谈甚欢，但这终究不是我想专精的方向，人还是很难在某种程度上获得自由的。</p><p> &ensp;&ensp;&ensp;&ensp; 有一点倒是值得提及，鉴于日渐匮乏的物质与精神生活，迫使于愈发平淡的味觉与食谱，我终于爆发了。在某个对于牛肉汉堡、超市肉丸肉饼无比厌恶的下午，我决定大手一挥，做锅铁锅炖！于是火急火燎的添置食材，走过维妈市场、走过中超、走过厨房用品店，大中午的走了快一万步，回家瘫痪。小憩一会，紧接着是揉面、发面，焯水、炒糖色、炒菜、炒调料，开炖。本该六点吃的饭，八点才吃上。三个人急头白脸的一顿吃，才算安逸下来。三人份的做过了，就又叫更多朋友来吃，一个人端着个锅炒一整锅菜，不知道的还以为我是食堂师傅。总体是好的，大家吃饭笑哈哈，我也开心。当然，除了铁锅炖，甜品也有所涉及，现在也会了邪道版杨枝甘露，喝过的人交口称赞，不得不感叹甜品店的暴利。</p><p> &ensp;&ensp;&ensp;&ensp; 另外有些意思的事就是五月天演唱会了。虽说称不上是五月天的什么粉丝，但其实也算陪我长大了。我对五月天的记忆始于星空卫视，当时那是我最爱的电视频道之一，它总在一年不间断的播放些热血民工漫，七龙珠、海贼王、火影、死神，我的二次元启蒙也始于此。当时电视里几摇滚打扮的人在卖力的演唱着，节奏声声入耳，有时不自觉的吟唱，后来才知道那是逃离地球表面的MV。后来就是高中了，我姐带我去看五月天演唱会，夏天的省体外人头攒动，大家排着队进场，我姐与同事寒暄着。演出的细节我已不记得很多，只记得叫做人生无限公司，是我看的第一场演唱会。夏日的阵阵微风，夹杂呼声与霓虹闪烁，是个美好的夜晚。之后跟高中的女朋友闹分手，又自个儿听着歌好一顿哭，嘿嘿，多少有点丢人。大学期间其实没有怎么听他们的歌了，之后再很多的听到其实是毕业旅行时，和我一辆车的沙东大哥酷爱五月天，歌声一路从乌鲁木齐听到阿勒泰。在那里我们和朋友相聚，朋友生在新疆、长在新疆，大学来北京，每天吃吃喝喝，过得快快乐乐，毕业找到份和我们专业不着调的四大岗位，入职前在家乡休憩一阵。大哥自然是好酒好肉的接待我们，两个沙东人，一个新疆人，觥筹交错，不觉间已经几瓶白酒下肚，书生意气，挥斥方遒，互相吹捧着，冒着酒气的开着玩笑。饮罢，大家说好去KTV唱唱歌，作为收尾，我们的行程紧凑，只在阿勒泰停留一天，那天晚上也是我们在阿勒泰的最后一个晚上。男生们除了我都大多醉了，大哥说：”兄弟们，今天之后我们可能很久都不能见面了，大学这么好的兄弟，学生时代就要结束了。“，五月天的《星空》、《干杯》响起，大家互相拥抱着合唱，笑或泪，”會不會 有一天 時間真的能倒退退回 你的我的 回不去的 悠悠的歲月“，”那一年我們望著星空 有那麼多的 燦爛的夢“，清醒与不清醒间，作为了青春与学生岁月的某种片尾曲。虽说我的大学生活难说有什么值得怀念，可是音乐响起，眼泪还是会汇聚一起，我在怀念什么呢？我的所谓青春草草结尾，或许是那些草草度过的无忧无虑时光吧，宿舍某个躺平的下午，考试某次刷夜的对视，宿舍聚餐时的笑谈，亲手错失的感情，以后都会成为一种奢求。KTV在星空中结束了，朋友们在酒店前相拥而泣，不肯离去。在墨尔本的现场听到《干杯》时，我仍想哭，我仿佛闪回了那天晚上，朋友们一起歌唱，一起畅饮，最后狂欢着。某种意义上，五月天也算记录了我的人生，总不经意间在我的生命中留下些痕迹，小学、高中、毕业、读研，每一部分都有些值得回忆的，对应些歌曲，播放时场景复现，又成了少年人。 </p>]]>
+    </content>
+    <id>http://sxhlmy.love/2023/05/17/%E6%9D%82%E8%AE%B0/</id>
+    <link href="http://sxhlmy.love/2023/05/17/%E6%9D%82%E8%AE%B0/"/>
+    <published>2023-05-17T14:41:31.000Z</published>
+    <summary>
+      <![CDATA[<p>
+ &ensp;&ensp;&ensp;&ensp;
+ 最近是很忙的一段时间，各种课程的作业、论文，让我应接不暇。但凡有些开创、或逻辑性强的工作其实我也是乐意的，但其实常在做些无用的、训练性的、重复的无聊工作。这无疑是对我人格的某种摧残了。当然，在国内受的这种摧残也不少，所]]>
+    </summary>
+    <title>杂记</title>
+    <updated>2025-11-26T15:45:30.189Z</updated>
   </entry>
-  
   <entry>
-    <title>台湾菜、奇妙爬宠店</title>
-    <link href="http://sxhlmy.love/2023/01/04/%E5%8F%B0%E6%B9%BE%E8%8F%9C%E3%80%81%E5%A5%87%E5%A6%99%E7%88%AC%E5%AE%A0%E5%BA%97/"/>
-    <id>http://sxhlmy.love/2023/01/04/%E5%8F%B0%E6%B9%BE%E8%8F%9C%E3%80%81%E5%A5%87%E5%A6%99%E7%88%AC%E5%AE%A0%E5%BA%97/</id>
-    <published>2023-01-04T10:58:05.000Z</published>
-    <updated>2023-01-16T11:42:46.000Z</updated>
-    
-    <content type="html"><![CDATA[ <p> &ensp;&ensp;&ensp;&ensp;先去吃了台湾菜，口味平平，面线与我记忆中的台湾味道相去甚远，老板说材料什么的都是台湾来的，当然，老板还是很热情的，大肠包小肠也不错。爌肉饭倒是不如沙东的把子肉香。 </p> <p> &ensp;&ensp;&ensp;&ensp;台湾餐馆离宝宝的初中很近，这也是我中考的地方，记忆里操场伫立着一个双层的厕所，这在其他地方是很少见的。很巧，我中考在宝宝初中，宝宝中考在我真正的高中，某种意义上也是有缘人。老菜场也在不远的地方，看过很多人发过，却从来没去过，新奇中透露着萧条，小酒馆、中古店参差错落着，我们上二楼，有了些难忘的际遇。 </p><img src="https://lover-1304073984.cos.ap-nanjing.myqcloud.com/love/image-20230104201620779.png" alt="image-20230104201620779" style="zoom:5%;" /><center><div style="color:orange;    display: inline-block;    color: #999;    padding: 2px;">蛇哈达</div></center><img src="https://lover-1304073984.cos.ap-nanjing.myqcloud.com/love/image-20230104201826482.png" alt="image-20230104201826482" style="zoom:10%;" /><center><div style="color:orange;    display: inline-block;    color: #999;    padding: 2px;">左拥右抱</div></center><img src="https://lover-1304073984.cos.ap-nanjing.myqcloud.com/love/image-20230104202014252.png" alt="image-20230104202014252" style="zoom: 33%;" /><center><div style="color:orange;    display: inline-block;    color: #999;    padding: 2px;">巴士蛙</div></center><img src="https://lover-1304073984.cos.ap-nanjing.myqcloud.com/love/image-20230104202048144.png" alt="image-20230104202048144" style="zoom:15%;" /><center><div style="color:orange;    display: inline-block;    color: #999;    padding: 2px;">防疫蛙</center> <p> &ensp;&ensp;&ensp;&ensp;一进店，店主就把一条蛇放到我手上，太奇妙了。之后和宝宝各拿一条蛇把玩了半天，之后还摸了树蛙和守宫，奇妙的触感，甚至还有蛇哈达。当然，店主让我们玩这么久，我们也不会白嫖，火速入蛙蛙教！ </p>]]></content>
-    
-    
-      
-      
-    <summary type="html"> &lt;p&gt;
- &amp;ensp;&amp;ensp;&amp;ensp;&amp;ensp;先去吃了台湾菜，口味平平，面线与我记忆中的台湾味道相去甚远，老板说材料什么的都是台湾来的，当然，老板还是很热情的，大肠包小肠也不错。爌肉饭倒是不如沙东的把子肉香。
- &lt;/p&gt;
-
- &lt;p&gt;
- &amp;ensp;&amp;ensp;&amp;en</summary>
-      
-    
-    
-    
-    <category term="date" scheme="http://sxhlmy.love/categories/date/"/>
-    
-    
-    <category term="美食、奇妙体验" scheme="http://sxhlmy.love/tags/%E7%BE%8E%E9%A3%9F%E3%80%81%E5%A5%87%E5%A6%99%E4%BD%93%E9%AA%8C/"/>
-    
+    <author>
+      <name>SOFILIPA</name>
+    </author>
+    <category term="旅行" scheme="http://sxhlmy.love/categories/travel/"/>
+    <category term="旅行" scheme="http://sxhlmy.love/tags/%E6%97%85%E8%A1%8C/"/>
+    <content>
+      <![CDATA[<p> &ensp;&ensp;&ensp;&ensp; 复活节这个词以前和我并没有多大的关系，复活节岛的石像和复活节彩蛋除外。其实这次复活节我也没有什么体感，像一个正常的长假期一样，懒得去研究背后的原因、其中的习俗，只是当做繁忙生活中的消遣。不过总算能抽身去游山玩水，逃离一下墨尔本ct这狭小而拥挤的一隅。</p><p> &ensp;&ensp;&ensp;&ensp; 去塔州的原因很简单，离墨尔本近、且回国后一定不会来这个地方，因为实在太远。我等穷鬼在旅行前才匆匆买票，自然只买得起捷星————恶评如潮的廉航，甚至连随身行李有时候都称重。好在我的行李卡在了6.9kg，差点超重。飞塔州的的前一晚一夜没睡，前半夜在和鱼总和舍友聊天，后半夜匆匆打Uber去往机场，和车上的印度老哥有一搭没一搭的聊着天，他身上的香水味弥漫在车内不宽裕的空间中，让人窒息。不知怎的，没有什么困意，直到上了飞机才将将睡了半小时，行程很短，醒来就到了降落的时候，旁边的local大姐一直在用笔记本辛勤工作，很好奇到底是什么工作驱使着她在凌晨六点的飞机上一直写着word。塔州的机场很小、很原始，人从飞机旁边的移动楼梯上下去，廊桥什么的是不存在的，需要直接走到航站楼去。之后便与朋友会面，有新朋友、也有许久未见的高中老相识。</p><img src="https://lover-1304073984.cos.ap-nanjing.myqcloud.com/love/20230421014510.png" alt="image-20230104201620779" style="zoom:20%;" /><center>    <div style="color:orange;    display: inline-block;    color: #999;    padding: 2px;">清晨机场    </div></center><p> &ensp;&ensp;&ensp;&ensp; 复活节假期期间，前半段澳洲整体暴雨，后半段整体多云。自然是见不到什么好天气的，第一天出发布鲁尼岛，车应载23人，实载23人，挤得满满当当。车窗外飘着细密的雨，一切都潮湿着。布鲁尼岛说实话是个很好的去处，岛上遍布着农场、村落以及自然景致，前提是去对日子。生蚝肯定是要吃的，生蚝的咸涩留在嘴边，天上的雨点落在身上，好生凄凉。还有奶酪农场，前面的外国夫妇几乎尝遍了试吃台上的每一块奶酪，最后买的可能还没吃的多，我们也想效仿，只是山猪吃不来细糠，尝了两口就频频咋舌，只得作罢。当然，也有些可圈可点之处，导游良心发现带着我们去看了看白袋鼠，这样的袋鼠只在布鲁尼岛上存在，白白净净，看着是比普通袋鼠可爱不少。</p><img src="https://lover-1304073984.cos.ap-nanjing.myqcloud.com/love/20230421004122.png" alt="image-20230104201620779" style="zoom:20%;" /><center>    <div style="color:orange;    display: inline-block;    color: #999;    padding: 2px;">白袋鼠    </div></center><p> &ensp;&ensp;&ensp;&ensp; 第二天是酒杯湾，塔州的景点倒是比较特别，名字的由来各个带着些血腥生猛的气息。酒杯湾是为形状似红酒杯，海水在粗粝的沙滩上激起酒沫，而红酒本身则是由于捕鲸后在岸上处理，海水染为血水，是为红酒，构成了酒杯湾一词。两千年初期被美国某旅游杂志评为世界十大海滩之一，在我看来实在过誉了。来回路上四小时，爬山下山俩小时，又是吃喝拉撒睡的游客的一天。</p><img src="https://lover-1304073984.cos.ap-nanjing.myqcloud.com/love/20230421010052.png" alt="image-20230104201620779" style="zoom:20%;" /><center>    <div style="color:orange;    display: inline-block;    color: #999;    padding: 2px;">落日    </div></center><img src="https://lover-1304073984.cos.ap-nanjing.myqcloud.com/love/DSCF8328.jpg" alt="image-20230104201620779" style="zoom:8%;" /><center>    <div style="color:orange;    display: inline-block;    color: #999;    padding: 2px;">酒杯湾    </div></center><p><p> &ensp;&ensp;&ensp;&ensp;澳洲的历史是原住民与囚犯的血泪史。塔州的原住民塔斯马尼亚人早在19世纪就已经灭绝，由于屠杀、由于疾病。布鲁尼岛上的一处碑文镌刻着最后的塔斯马尼亚人，她见证了各个亲人被昂撒人杀害、奴役或是蹂躏，四五千人的族群沦为二位数直至个位数，直至她也离世。塔斯马尼亚人的文化、文字、语言也早已佚失，正如曾生活在塔斯马尼亚的物种们，何其悲怆。塔夫曼半岛主要生活着原住民与白人的后裔，地广人稀，政府并未铺设地下管网来提供用水，在今天他们仍然以一种比较原始的状态生存着。而塔夫曼半岛的另外一方，便是亚瑟港，一所囚犯们为自己修建的监狱。碧波拍打着山野，颓圮篱墙衬着荒冢，一切无声，游客来去匆匆，唯有碧波，唯有山野，唯有荒冢回响着。</p><img src="https://lover-1304073984.cos.ap-nanjing.myqcloud.com/love/20230421013223.png" alt="image-20230104201620779" style="zoom:20%;" /><center>    <div style="color:orange;    display: inline-block;    color: #999;    padding: 2px;">亚瑟港    </div></center><p> &ensp;&ensp;&ensp;&ensp; 剩下景色并无异致,山川瀑布,古树参天,是在中国森林公园也不少见的景象。只是过度摄入的鱼薯让我PTSD，发誓再也不吃。总而言之，是趟普通的旅行，有不错的朋友，但天气时常阴沉，行程走马观花，亦或是土地中隐隐的苦难刺痛着我，纵使阳光明媚，却也暗淡了。</p>]]>
+    </content>
+    <id>http://sxhlmy.love/2023/04/20/%E5%A1%94%E5%B7%9E%E6%B8%B8%E8%AE%B0/</id>
+    <link href="http://sxhlmy.love/2023/04/20/%E5%A1%94%E5%B7%9E%E6%B8%B8%E8%AE%B0/"/>
+    <published>2023-04-20T15:03:59.000Z</published>
+    <summary>
+      <![CDATA[<p>
+ &ensp;&ensp;&ensp;&ensp;
+ 复活节这个词以前和我并没有多大的关系，复活节岛的石像和复活节彩蛋除外。其实这次复活节我也没有什么体感，像一个正常的长假期一样，懒得去研究背后的原因、其中的习俗，只是当做繁忙生活中的消遣。不过总算能抽身去游山玩水，逃离一]]>
+    </summary>
+    <title>塔州游记</title>
+    <updated>2025-11-26T15:45:32.347Z</updated>
   </entry>
-  
   <entry>
-    <title>one day</title>
-    <link href="http://sxhlmy.love/2022/12/30/day/"/>
-    <id>http://sxhlmy.love/2022/12/30/day/</id>
-    <published>2022-12-30T04:06:06.000Z</published>
-    <updated>2023-01-04T12:17:54.000Z</updated>
-    
-    <content type="html"><![CDATA[<p><img src="https://lover-1304073984.cos.ap-nanjing.myqcloud.com/love/p1103205323.jpg" alt="一天 蓝光原盘下载+高清MKV版/真爱挑日子(台) / 情约1天(港) / 一年恋一天 / 一天的恋人 / 年年有今日 / 每年今日 2011 One Day 29.7G" style="zoom:33%;" /></p><p><center><div style="color:orange;    display: inline-block;    color: #999;    padding: 2px;">one day</div></center><br> <p> &ensp;&ensp;&ensp;&ensp;除了每年同一天的叙事手法有点意思，这电影真的是过誉完了，其实就连叙事手法都很俗套，是我这种电影白痴都能想到的叙事。很难明白导演是在想传达一些什么东西，一眼万年的感情？遗憾结束的灵魂伴侣？或是暗暗抑制却还是爆发的感情？我是一直云里雾里。整个片子三观有够歪的，无非讲的是一个浪荡男主和普人女主的故事，男主年少多金有才浪子，女主默默餐厅打工诗人。历尽千帆，男主人生低谷处终于与女主相聚，然后女主被车创死。若是灵魂伴侣，为何不早早在一起，而要始终和别人缠绵？男主对女主来说可能是，女主之于男主，我更愿意称之为一个“特殊的”备胎，因为其他人他轻轻松松就睡到，而女主是唯一和他维系着特殊关系的人，倘若第一天男主爸妈真的不回家，我感觉也就更是个单相思的故事。男主所谓的现世报，事业失利，被曾经看不起的人雇佣并绿，女主被车撞，真的让我怀疑自己是不是点进了什么韩剧网站或者琼瑶复古频道。这样一部电影，点开评论网站一看，满满的溢美之词，评分高达7.9，在列什么10部必看的爱情片，“我最爱的电影，看了5次，每次都有新感受！”，很难想象有什么碳基生物能发出这样的感慨，我倒成了少数派了。总之，trash一部，拉黑导演+编剧，这部电影最好的，可能是安妮海瑟薇了？ </p></p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;p&gt;&lt;img src=&quot;https://lover-1304073984.cos.ap-nanjing.myqcloud.com/love/p1103205323.jpg&quot; alt=&quot;一天 蓝光原盘下载+高清MKV版/真爱挑日子(台) / 情约1天(港) / 一年恋一天 / 一</summary>
-      
-    
-    
-    
-    <category term="电影" scheme="http://sxhlmy.love/categories/%E7%94%B5%E5%BD%B1/"/>
-    
-    
-    <category term="电影" scheme="http://sxhlmy.love/tags/%E7%94%B5%E5%BD%B1/"/>
-    
+    <author>
+      <name>SOFILIPA</name>
+    </author>
+    <content>
+      <![CDATA[<p> &ensp;&ensp;&ensp;&ensp;最近的日子平平淡淡，主要干的事就是做些学生该做的事，同时看些自己感兴趣的知识。</p><p> &ensp;&ensp;&ensp;&ensp;自从毕业后已经很少写代码、看文档。以至于一度觉得自己和程序员这个职业有了些不可名状的沟壑，像是觉得自己不够热爱，有时又觉得过于劳累。其实终究是过得太舒适，懒于探索、懒于练习，自己离人生的迷茫期还差得远，只是些懒人的无病呻吟。开学了之后几乎就没有这种感觉了，精力更倾向于放在未来职业方向的选择上，譬如写哪种语言、做什么方向之类的。程序员这个职业是需要打磨的，熬夜去解决一些奇奇怪怪的问题，或是对新技术做出些简单的尝试，都会使自己有所裨益。最开心的一件事是自己终于又进入了对于探索而热忱的状态中，那种灵感爆发一气呵成解决问题而产生的多巴胺真是令人难忘。   </p> <p> &ensp;&ensp;&ensp;&ensp; 另一件事是看完了整个魏晋南北朝的历史。其实从小学到初中、高中，再到现在。个人的史观是一个不断立体化的过程，一开始对于历史人物的认知总是扁平化的，某人有大功绩、才略卓群或是武德充沛，相反的，也有某人荒淫无道、取用无度。一个个人物脸谱，在戏剧中赋予了不同的颜色。而后知道了些粗略的细节，觉得有些所谓暴君或是佞臣，其实也在某些角度干了些好事，而有些人也有些过誉、言过其实，也就是历史书上简单的正反面品评而已。直至细细品评时间的来龙去脉，历史的细节，感觉才变得生动立体起来。南北朝是个混乱的时代，民族融合、宗教传播、各国征伐、阴谋构陷、旁支篡位夹杂其中。</p><p>  &ensp;&ensp;&ensp;&ensp;人想要于史书中留名，是很难的，尤其是留下些正向的评价。为臣，倘若想要为国尽忠，一面要构想如何谏言除弊，同时要于门阀间立足，站对队伍。谨言慎行，一言一行都可能被构陷，轻则贬官流放，重则身死。同时也要有能力一展抱负，精于文略，或武力过人。为君，有时更难，需要平衡王亲与外戚、前来归顺的割据势力，稳定权利。倘要有所作为，要有改革的魄力，说服或压制利益贬损群体，施行恰当的政策。其实对君主来说，躺平是相当省事的方式，每天听大臣吹彩虹屁，没事就打猎设宴和妃子玩乐就好。但想要有所作为则是反人性的，要求你割裂或限制这一切享受的行为，投身于民生、国力的宏大叙事中。身为君主，不仅在于个人才干，更在时局，不难看到很多有主见、有理想的少年君主，囿于外戚或权臣摄政，郁郁而终或被杀，成为史书上寥寥几笔。对于一般人来说，较于创造些功绩而名留青史，更多是选择些更为轻松的路途。  </p>  <p>  &ensp;&ensp;&ensp;&ensp;不得不说，儒学的有些话在古代的语境下也是正确的，虽总说是对人性的压制与抹杀，但这在某些时候也是必要的，尤其是想超脱于常人境界时。“存天理，去人欲”，做到了堪称圣人。很多人认为孔明过誉，我现在一点也不这么认为。位极人臣，幼子继位且羸弱，倘若他想篡权，只是动一下想法的事。南北朝数不清的权臣这么做了，出于不同的原因，立国之私欲、为了保全自己的家族，比比皆是。萧道成这么做了、宇文泰这么做了、杨坚也这么做了，很多没有成功改朝换代的人也这么做了。宗室也大多遭诛杀殆尽。这时总有种道德的幻灭感，因为混乱在这时代总是常态，而之后的功绩与成就又让这一切变得合理起来，除了宗室也不会有人指摘什么，只因大家都这样做。但诸葛亮是不同的，即便知道禅让于己合情合理，即便知道自己登基蜀国能有更好的处境，但这不是他的选择。世上并未出现诸葛代蜀，而是留下“今当远离，临表涕零，不知所言”，纸上寥寥几言，让他真正超脱于人性，成为历代清流的精神表征。出师一表真名世，千载谁堪伯仲间。海海千年，未有几人堪比也。  </p>  <p>  &ensp;&ensp;&ensp;&ensp;此外就是，历史的真相似乎真的不可探查。能知晓的也许只有大概的脉络而已。人们总说，南北朝的皇帝疯子多。太多荒谬之事发生在此时。在饥荒只有“天大旱，人相食”记载的史书中，某些皇帝的罪责则被长篇大论的记载与叙述。譬如北朝高欢之后似乎一个正常人也没有，而南朝萧宝卷、刘子业也是令人发指。其荒淫无道的程度的确是超出常人之认知，但究竟几分真假，不得而知，其中的春秋笔法也是难以辨识。不过终究也是时代中的混乱之缩影了。</p><p>  &ensp;&ensp;&ensp;&ensp;历史烟尘滚滚，作为普通人不由得要被时代裹挟而去，一如帝王将相们，泛入烟尘中，随风而去。古今多少事，都付笑谈中。     </p>]]>
+    </content>
+    <id>http://sxhlmy.love/2023/03/18/%E9%9A%8F%E7%AC%94/</id>
+    <link href="http://sxhlmy.love/2023/03/18/%E9%9A%8F%E7%AC%94/"/>
+    <published>2023-03-18T11:49:12.000Z</published>
+    <summary>
+      <![CDATA[<p>
+ &ensp;&ensp;&ensp;&ensp;最近的日子平平淡淡，主要干的事就是做些学生该做的事，同时看些自己感兴趣的知识。
+</p>
+<p>
+ &ensp;&ensp;&ensp;&ensp;自从毕业后已经很少写代码、看文档。以至于一度觉得自己和程序员这个职业有了些]]>
+    </summary>
+    <title>随笔</title>
+    <updated>2025-11-26T15:45:34.344Z</updated>
   </entry>
-  
   <entry>
-    <title>猜火车、发条橙、阿凡达2</title>
-    <link href="http://sxhlmy.love/2022/12/29/%E7%8C%9C%E7%81%AB%E8%BD%A6%E3%80%81%E5%8F%91%E6%9D%A1%E6%A9%99%E3%80%81%E9%98%BF%E5%87%A1%E8%BE%BE2/"/>
-    <id>http://sxhlmy.love/2022/12/29/%E7%8C%9C%E7%81%AB%E8%BD%A6%E3%80%81%E5%8F%91%E6%9D%A1%E6%A9%99%E3%80%81%E9%98%BF%E5%87%A1%E8%BE%BE2/</id>
-    <published>2022-12-29T08:20:52.000Z</published>
-    <updated>2022-12-30T04:07:20.000Z</updated>
-    
-    <content type="html"><![CDATA[<p><img src="https://lover-1304073984.cos.ap-nanjing.myqcloud.com/love/091298de9ae844c68c39f9c4efe10ce4_th.jpg" alt="猜火车》这么丧的人生，为何成为我的精神支柱？"></p><center><div style="color:orange;    display: inline-block;    color: #999;    padding: 2px;">猜火车</div></center><blockquote><p>我为什么这样做?我可以提供上万个答案，可是全部是错误的。事实上我本来就是一个坏人，但是我会改变，我正在改变。这是我最后一次做这种事情。我已经洗心革面，继续前进，一直向前，选择生活。我已经在期盼那样的生活了。我将像你一样：工作，家庭，他妈的大电视机，洗衣机，汽车，镭射音响，电动开罐器，保养自己的身体、低胆固醇，牙医保险，抵押贷款，低价住房，休闲装，旅行包，三件套，DIY，体育节目，垃圾食品，子女，在公园散步，朝九晚五，打高尔夫，洗车，选择毛衣，家庭圣诞，养老金免税，清理下水道过日子，一直向前，直到死的那一天。</p></blockquote> <p> &ensp;&ensp;&ensp;&ensp;猜火车，苏格兰最恶心的厕所，肆意纵情的青春、毒品、性爱录像带、抢劫，到最后的走入新生活，像其他正常人一样。 </p><img src="https://lover-1304073984.cos.ap-nanjing.myqcloud.com/love/v2-086dcab9625bc9be74b2536d93d140d0_1440w.webp" alt="一部获得奥斯卡的禁片— 《发条橙》 - 知乎" style="zoom: 40%;" /><center><div style="color:orange;    display: inline-block;    color: #999;    padding: 2px;">发条橙</div></center>> When a man cannot choose, he ceases to be a man。> 当一个人无法选择时，他不再是一个人。> <p> &ensp;&ensp;&ensp;&ensp;发条橙，老伦敦人口中受发条控制的生物体。一部有多层解读的cult片，看的过程让人san值狂掉。之后看影评细细品味，库布里克还是有东西的。</p><p><img src="https://lover-1304073984.cos.ap-nanjing.myqcloud.com/love/1669207135773_kuwcwjhhiieoz.jpeg@!thumb800" alt="迪士尼惊天巨变，22亿《阿凡达2》终于定档，是来救谁的？-蓝鲸财经" style="zoom:55%;" /></p><center><div style="color:orange;    display: inline-block;    color: #999;    padding: 2px;">阿凡达2</div></center> <p> &ensp;&ensp;&ensp;&ensp;卡梅隆再次十年磨一剑，磨出来了特效精彩的依托答辩。典型的爆米花院线片，典型的美式爹味，典型的个人英雄主义，典型的老实大哥去世，这个片子可以被套进各种俗套的情节中去，但架不住它也是唯一的，因为除了卡梅隆没人能用这么高预算、这么多特效、组成依托答辩。当然，看的还是很爽的。</p><p><img src="https://lover-1304073984.cos.ap-nanjing.myqcloud.com/love/image-20221229165805408.png" alt="image-20221229165805408" style="zoom:33%;" /></p><center><div style="color:orange;    display: inline-block;    color: #999;    padding: 2px;">经典背影环节</div></center><p><img src="https://lover-1304073984.cos.ap-nanjing.myqcloud.com/love/image-20221229165833388.png" alt="image-20221229165833388" style="zoom:33%;" /></p><center><div style="color:orange;    display: inline-block;    color: #999;    padding: 2px;">怪怪烫烫的咖啡</div></center><p><img src="https://lover-1304073984.cos.ap-nanjing.myqcloud.com/love/image-20221229165913581.png" alt="image-20221229165913581" style="zoom:33%;" /></p><center><div style="color:orange;    display: inline-block;    color: #999;    padding: 2px;">宝宝送的乐高玫瑰</div></center>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;p&gt;&lt;img src=&quot;https://lover-1304073984.cos.ap-nanjing.myqcloud.com/love/091298de9ae844c68c39f9c4efe10ce4_th.jpg&quot; alt=&quot;猜火车》这么丧的人生，为何成为我的精神支柱？&quot;</summary>
-      
-    
-    
-    
-    <category term="电影" scheme="http://sxhlmy.love/categories/%E7%94%B5%E5%BD%B1/"/>
-    
-    
-    <category term="电影" scheme="http://sxhlmy.love/tags/%E7%94%B5%E5%BD%B1/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>蓝色大门</title>
-    <link href="http://sxhlmy.love/2022/12/23/%E8%93%9D%E8%89%B2%E5%A4%A7%E9%97%A8/"/>
-    <id>http://sxhlmy.love/2022/12/23/%E8%93%9D%E8%89%B2%E5%A4%A7%E9%97%A8/</id>
-    <published>2022-12-23T12:33:15.000Z</published>
-    <updated>2022-12-29T08:46:26.000Z</updated>
-    
-    <content type="html"><![CDATA[<p><img src="https://lover-1304073984.cos.ap-nanjing.myqcloud.com/love/d3653105.jpg" alt="d3653105"></p><center><div style="color:orange;    display: inline-block;    color: #999;    padding: 2px;">蓝色大门</div></center><p>&ensp;&ensp;&ensp;&ensp;蓝色大门，印象里这四个字以前在其他看过的影评里被提到过很多次。听得最多的是电影里的几句对白：</p><blockquote><p>张士豪：好不甘心喔，整个夏天都快过完了，好像什么事都没有做。</p><p>孟克柔：对呀，好像就只是跑来跑去，什么事都没有做。</p><p>张士豪：你看，没有赢过一场比赛，真的什么事都没有做。</p><p>张士豪：你想到什么？</p><p>孟克柔：那你想到什么？</p><p>张士豪：但是总是会留下一些什么吧，留下什么，我们就变成什么样的大人。</p></blockquote><p>&ensp;&ensp;&ensp;&ensp;台湾的很多电影有着蓝绿色的色调，正如它的名字一样，蓝色大门，它也有着这样的色调。士豪在鱼缸边上自己一个人打电话是这样，克柔在泳池边看士豪游泳时是这样，士豪拒绝月珍时也是这样。电影集齐了唤醒青春的很多要素：夏天、海边、高中、年轻而美好的人们、几近萌发而没有结果的感情。里面也有着青涩的桂纶镁和陈柏霖。克柔演的很像未经人事的小女生，经常做出一些成年人的角度匪夷所思的事情，而这又恰恰突出了她的单纯，倘若抛开那么多先入为主的教条与桎梏，每个人都会自己探索自己的感情世界，无论是性取向，或是感情的对象与方式。而士豪也是那种单纯而大大咧咧的男生，口头禅是：“我是张士豪，游泳队，吉他社，我还不错!”，听起来憨憨的，不过却是我很羡慕的那种直率，黑黑的皮肤，很好的身体，很单纯的人。</p><p>&ensp;&ensp;&ensp;&ensp;看的电影多了，发现很多承载盛誉的电影其实拍的都很平淡，单纯的叙述，简单的镜头，没有复杂的手法，有时候看完会觉得：“为什么会有这么高的评分啊。”。但仔细想来，全片没有什么痛点尿点，导演传达了想传达的，观众也很多共鸣，这就足够了，每个人的心中都有一扇自己的蓝色大门。比起大陆那些动辄逃学、堕胎、游历社会的青春片，或者是伤痛片，蓝色大门这种片子确实是可以涤荡双眼的。</p><p>&ensp;&ensp;&ensp;&ensp;（宝宝又生病了，希望宝宝早日康复，我们早点见面(•̀ᴗ• )）</p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;p&gt;&lt;img src=&quot;https://lover-1304073984.cos.ap-nanjing.myqcloud.com/love/d3653105.jpg&quot; alt=&quot;d3653105&quot;&gt;&lt;/p&gt;
-&lt;center&gt;&lt;div style=&quot;color:orange;
- </summary>
-      
-    
-    
-    
-    <category term="电影" scheme="http://sxhlmy.love/categories/%E7%94%B5%E5%BD%B1/"/>
-    
-    
-    <category term="电影" scheme="http://sxhlmy.love/tags/%E7%94%B5%E5%BD%B1/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>The Past Within</title>
-    <link href="http://sxhlmy.love/2022/12/19/Within/"/>
-    <id>http://sxhlmy.love/2022/12/19/Within/</id>
-    <published>2022-12-19T03:48:16.000Z</published>
-    <updated>2022-12-23T12:46:26.000Z</updated>
-    
-    <content type="html"><![CDATA[<p><img src="https://lover-1304073984.cos.ap-nanjing.myqcloud.com/love/image-20221220000326667.png" alt="image-20221220000326667" style="zoom:20%;" /></p><center><div style="color:orange;    display: inline-block;    color: #999;    padding: 2px;">纪念版行程卡</div></center><p>&ensp;&ensp;&ensp;&ensp;封控时大家总在提三个字————烟火气，怀念一些疫情前的日子，三五好友一起小酌、世界各地旅行、依旧繁荣的实体商业，无需核酸或是行程码便可畅行无阻。放开后的日子与之前有些相似，至少一半相似，行程码的小程序已经注销了，核酸也只在学校、医院这样的场所被要求。但与往日不同的是，餐厅、酒吧里没有熙熙攘攘的人群，大家要么阳了在家休养，要么害怕阳而深居浅出。</p><p><img src="https://lover-1304073984.cos.ap-nanjing.myqcloud.com/love/image-20221219235954234.png" alt="image-20221219235954234" style="zoom: 50%;" /></p><center><div style="color:orange;    display: inline-block;    color: #999;    padding: 2px;">游戏</div></center><p>&ensp;&ensp;&ensp;&ensp;我和小刘的病也都基本差不多了，只剩下些咳嗽、头晕、流鼻涕等轻度的后遗症。但还是在家不能出门，百无聊赖，想来一起打游戏是再好不过的消遣。带小刘搞个steam账号一起打游戏是我很久之前就有的想法。小刘很聪明，给了一个梯子和一个安装包，很快就自己搞好了账号，买了游戏。</p><p><img src="https://lover-1304073984.cos.ap-nanjing.myqcloud.com/love/image-20221219235819204.png" alt="image-20221219235819204" style="zoom: 33%;" /></p><center><div style="color:orange;    display: inline-block;    color: #999;    padding: 2px;">一些解谜过程</div></center><p>&ensp;&ensp;&ensp;&ensp;这次玩得是The Past Within，绣湖系列的新作，也是他们出的第一部双人游戏。说来我也和绣湖系列有些缘分，大一的时候刚转完专业，小学期老师让用QT来做游戏，当时和同学就是重置了绣湖的一版，可惜最后遇到技术上的一些问题，完成度不是很高，最后草草做了个别的游戏收场。绣湖系列秉持着一向压抑的画风与致郁系剧情，算是很有名的解谜游戏。这部更是弱化的解密中的思考，注重二人之间的交流，只要交流顺畅基本没有什么阻碍，小刘悟性很高，很快上手并如鱼得水，我们也很快的通关啦！游戏质量依旧稳定，不过也鲜有惊喜。希望以后一起玩更多游戏，耶耶！</p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;p&gt;&lt;img src=&quot;https://lover-1304073984.cos.ap-nanjing.myqcloud.com/love/image-20221220000326667.png&quot; alt=&quot;image-20221220000326667&quot; style=&quot;zoo</summary>
-      
-    
-    
-    
+    <author>
+      <name>SOFILIPA</name>
+    </author>
     <category term="日常" scheme="http://sxhlmy.love/categories/%E6%97%A5%E5%B8%B8/"/>
-    
-    
-    <category term="游戏" scheme="http://sxhlmy.love/tags/%E6%B8%B8%E6%88%8F/"/>
-    
+    <content>
+      <![CDATA[<p><img src="https://lover-1304073984.cos.ap-nanjing.myqcloud.com/love/image-20221210003034215.png" alt="image-20221210003034215" style="zoom:14%;" /></p><center><div style="color:orange;    display: inline-block;    color: #999;    padding: 2px;">你小子</div></center><p>&ensp;&ensp;&ensp;&ensp;前天太累了，拖更到两天后的晚上才写。</p><p>&ensp;&ensp;&ensp;&ensp;一夜之间，似乎各处媒体、报刊，都写满了放开两个字，身边有阳性也不再是什么稀奇的事，各处的核酸点被撤掉，公共交通与设施也不再检查核酸，一切都在向以前的方向发展。老婆也迎来了一个难得的休息日，我们约定去大兴善寺，想着进去无论是参佛，或者拍拍照、看看大乌龟，也都是不错的消遣。穿过西安的中轴线、穿过街上恢复息壤的行人、穿过兴善寺街，横亘在面前的是一片贴在门上的红纸：“今日不开放”。作罢。</p><img src="https://lover-1304073984.cos.ap-nanjing.myqcloud.com/love/image-20221210140558746.png" alt="image-20221210140558746" style="zoom: 13%;" /><center><div style="color:orange;    display: inline-block;    color: #999;    padding: 2px;">新疆</div></center><p>&ensp;&ensp;&ensp;&ensp;我难得得带了相机出门，用来干什么不言而喻。相机是在去新疆之前买的，总是在家落灰，想着记录自己一路上看到的风物人情，不幸的是所及景致基本都是阴天，套机镜头光圈又不够使，鲜有满意的照片。本想着可能还能出去转转，定了个70-300的长焦，奈何富士老板忘了我，新疆、西藏的景色也忘了我。终于有朝一日它能派上用场————用来拍爱的人。</p><img src="https://lover-1304073984.cos.ap-nanjing.myqcloud.com/love/image-20221210002934774.png" alt="image-20221210002934774" style="zoom:15%;" /><center><div style="color:orange;    display: inline-block;    color: #999;    padding: 2px;">咖啡馆</div></center><p>&ensp;&ensp;&ensp;&ensp;大兴善寺关门，转而去了旁边的一家咖啡馆，在大众点评上还算蛮有名气。点了提拉米苏舒芙蕾，还不错，但酒浸的葡萄干有点苦苦的，略怪。在这里给宝宝拍了一些照片，但老虚焦（富士对焦真的很对不起他的价格），宝宝也给我拍了些，说这是个很好玩的相机。之后我们在小寨附近散步，想干一些以前没干过的事，刷到一家拍拍立得的店，果断出发GOGOGO!</p><p><img src="https://lover-1304073984.cos.ap-nanjing.myqcloud.com/love/image-20221211192249764.png" alt="image-20221211192249764" style="zoom: 15%;" /></p><center><div style="color:orange;    display: inline-block;    color: #999;    padding: 2px;">拍立得照片</div></center><p>&ensp;&ensp;&ensp;&ensp;不得不说，拍立得店真的是段蛮有意思的体验，想想我们在一起那么久，竟然都没有别人帮忙拍的合照，真是可惜。店里遍布着别出心裁的小摆件，几面墙挂满了大家留下的拍立得照片，有二人合照、单人肖像、有喜悦的、有忧伤的。我们试了很多不同的配饰，不同的帽子，拍出了一些满意的照片。（当然我给宝宝拍的照片宝宝不满意）</p><p><img src="https://lover-1304073984.cos.ap-nanjing.myqcloud.com/love/image-20221211192902816.png" alt="image-20221211192902816" style="zoom:15%;" /></p><center><div style="color:orange;    display: inline-block;    color: #999;    padding: 2px;">正在引诱猫的小哥</div></center><p>&ensp;&ensp;&ensp;&ensp;拍完照片，去吃了顿绿茶，就去找地方贴贴。走到环城公园旁边、护城河上，两个人亲昵的忘我时，听到几声猫叫。细看一只年纪小小的英短正在护城河的河基旁，向人求助，我本来想下去施救，奈何受制于我笨拙的躯体，又是唐唐的爬了上去。最后叫了个跑腿小哥来救猫，猫咪看似亲人，小哥一下去却是吓了一大跳，兀自到处跑来跑去，最后自己跑进了排水口里。小哥把食物放在了外面，想必它也能多撑几天吧，或者直接从排水口出逃也不一定，总之希望有缘无分的小猫有个自由且美好的未来吧。</p>]]>
+    </content>
+    <id>http://sxhlmy.love/2023/03/17/%E6%8B%8D%E7%AB%8B%E5%BE%97%E5%BA%97%E3%80%81%E6%9C%89%E7%BC%98%E6%97%A0%E5%88%86%E7%9A%84%E7%8C%AB/</id>
+    <link href="http://sxhlmy.love/2023/03/17/%E6%8B%8D%E7%AB%8B%E5%BE%97%E5%BA%97%E3%80%81%E6%9C%89%E7%BC%98%E6%97%A0%E5%88%86%E7%9A%84%E7%8C%AB/"/>
+    <published>2023-03-17T06:16:20.000Z</published>
+    <summary>
+      <![CDATA[<p><img src="https://lover-1304073984.cos.ap-nanjing.myqcloud.com/love/image-20221210003034215.png" alt="image-20221210003034215" style="zoo]]>
+    </summary>
+    <title>咖啡馆、拍立得店、有缘无分的猫</title>
+    <updated>2022-12-15T11:44:52.000Z</updated>
   </entry>
-  
   <entry>
-    <title>🐏了个🐏</title>
-    <link href="http://sxhlmy.love/2022/12/09/%E9%98%B3%E4%BA%86%E4%B8%AA%E9%98%B3/"/>
-    <id>http://sxhlmy.love/2022/12/09/%E9%98%B3%E4%BA%86%E4%B8%AA%E9%98%B3/</id>
-    <published>2022-12-09T15:56:48.000Z</published>
-    <updated>2022-12-19T15:58:40.000Z</updated>
-    
-    <content type="html"><![CDATA[<p><img src="https://lover-1304073984.cos.ap-nanjing.myqcloud.com/love/image-20221215195532136.png" alt="image-20221215195532136" style="zoom:12%;" /></p><center><div style="color:orange;    display: inline-block;    color: #999;    padding: 2px;">背影</div></center><p>&ensp;&ensp;&ensp;&ensp;12月12日，宝宝的状态很不好，发低烧、头晕，还在地铁上流鼻血到了白色衣服上。晚上约了在小世界见面，那是家经过了很多次，但从未品尝过的餐厅。那天应该是最近出门的日子里最冷的一天，街上行人萧瑟，本来以为要排队的餐厅还剩很多空位。餐厅里面很小，就和名字一样，满打满算能坐二十人的样子，昏暗的灯光点缀着有些年头的装扮，衬出些圣诞的气氛。宝宝一脸憔悴的倚着我，向我讲今天发生了些什么。餐厅味道尚可，分量倒是一般，加了份披萨吃完之后时间已经不早，快快离开了。门外是很冷的天气，宝宝每次从温暖室内到室外时，总会浑身发抖，这时，我会抱着宝宝。不久，就到了我的第二故乡，创意谷，无处可去，去了星巴克，点了经典的小学生饮料冰摇桃桃还有我力荐的巧克力可颂，当然，最重要的还是宝宝给我拍了拍立得，耶耶！最后，我们在小区门口，拥吻，离别。</p><p><img src="https://lover-1304073984.cos.ap-nanjing.myqcloud.com/love/image-20221215194712175.png" alt="image-20221215194712175" style="zoom:25%;" /></p><center><div style="color:orange;    display: inline-block;    color: #999;    padding: 2px;">大家喜欢的黄桃罐头</div></center><p>&ensp;&ensp;&ensp;&ensp;宝宝回家之后和我聊了聊天，一如既往的早早睡着了，我也没觉得有什么异常，早早睡去。第二天早上，宝宝一大早告诉我阿姨的牌友阳了，然后睡去，我起床没有什么不适，还兴致勃勃的做了40分钟空腹有氧，心想自己可能就是所谓的无症状感染者。直到中午一觉醒来，自己也芭比Q了，感觉自从小学之后就很少发高烧，除了新冠应该也没有其他什么原因，突然陷入一种迷糊、像是喝醉了一般的意识中，精神萎靡，四肢昏沉，只有在床上躺着才舒服点。但吃完布洛芬，晚上体温突然就下去了，我想我是一天速通新冠，不愧是经常锻炼人。宝宝也早早睡去，一样的发烧，一样的意识模糊。</p><p><img src="https://lover-1304073984.cos.ap-nanjing.myqcloud.com/love/image-20221215194523935.png" alt="image-20221215194523935" style="zoom:25%;" /></p><center><div style="color:orange;    display: inline-block;    color: #999;    padding: 2px;">辛勤工作的加湿器</div></center><p>&ensp;&ensp;&ensp;&ensp;第二天起床，宝宝经历了难熬的一个晚上，吃了很多药，终于温度降下来了。我第二天反而重返38℃，但难受的感觉倒其实没有多少了，只有一种烧灼感，像是从鼻子里、嘴巴里呼出的热乎乎的气，像是冬天待在暖气房里的体感，提醒着我还在发烧。这一天里，我应该喝了比之前人生任何的一天都多的水，一有空就去喝水、接水，好歹嗓子保住了。与我不同的是，宝宝始终伴随着肌肉酸痛与嗓子痛，好心疼呜呜。一天又在吃吃睡睡中度过，幸运的是我的食欲还不错，始终没有什么严重的咽痛，咔咔就是一顿造，为身体补充了不少抗争病毒的营养。</p><p>&ensp;&ensp;&ensp;&ensp;直到今天半夜，醒来发现自己的汗水浸湿了床单与枕头，又昏昏睡去，第二天醒来宝宝和我都顺利退烧，耶耶！虽说宝宝还有些咽痛，但我们与新冠的抗争也基本告一段落了。希望今后，我们都能身体健康，毕竟本来就是两个无比健康的人，少些这方面的烦恼吧。</p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;p&gt;&lt;img src=&quot;https://lover-1304073984.cos.ap-nanjing.myqcloud.com/love/image-20221215195532136.png&quot; alt=&quot;image-20221215195532136&quot; style=&quot;zoo</summary>
-      
-    
-    
-    
+    <author>
+      <name>SOFILIPA</name>
+    </author>
+    <content>
+      <![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]>
+    </content>
+    <id>http://sxhlmy.love/2023/03/17/hello-world/</id>
+    <link href="http://sxhlmy.love/2023/03/17/hello-world/"/>
+    <published>2023-03-17T06:16:20.000Z</published>
+    <summary>
+      <![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for]]>
+    </summary>
+    <title>Hello World</title>
+    <updated>2022-11-20T12:10:22.000Z</updated>
+  </entry>
+  <entry>
+    <author>
+      <name>SOFILIPA</name>
+    </author>
     <category term="随笔" scheme="http://sxhlmy.love/categories/essay/"/>
-    
-    
-    <category term="奇遇" scheme="http://sxhlmy.love/tags/%E5%A5%87%E9%81%87/"/>
-    
+    <category term="奇妙体验" scheme="http://sxhlmy.love/tags/%E5%A5%87%E5%A6%99%E4%BD%93%E9%AA%8C/"/>
+    <content>
+      <![CDATA[<p> &ensp;&ensp;&ensp;&ensp;今天是2月21，离情人节已经过去了一个礼拜，而我也已经和宝宝分开一周了。在这一周里，我进入了一种截然不同，却也没有什么割裂感的文化环境中，也陷入了对宝宝的思念。 </p><p> &ensp;&ensp;&ensp;&ensp;墨尔本的天气总是晴朗，南半球强烈的阳光透过云层映在大地上，照的人睁不开眼。之前总看到别人写留学的前几个月如何艰难的去融入不同的环境、如何克服种种困难，但我似乎鲜有这种感受，或许是因为华人已经不少，四处都是亚超、中餐厅、中文服务，或许是因为准备了很多，订好了带家具的房子、找了性格很好的室友，也可能是人们都很友善，都在帮助着新来客。之前来澳洲只是觉得好玩，人们友善、也风景异致。这次也有些不同的感受，可能一言以蔽之，就是和而不同，不同种群的人互相尊重，至少表面上互相友善，同时各个种群又各自抱团，彼此做自己的事，互不打扰。这种感受其实在中国，一个有主体民族大一统国家是鲜少体会到的，这也是一个主要单民族国家和移民国家的差异。移民可以为国家注入源源不断地劳动力、资本、创新能力，也能成为一些社会矛盾的激发点、让整个社会更松散。都是出于意识形态做出的不同的选择，一个换取更大的统一性、做到更好的集体主义与一致性，一个换取国家良好的人口结构与源动力。（胡说ing） </p><p> &ensp;&ensp;&ensp;&ensp;大学生活也有蛮多不同，虽然还没体会多少。今天刚去了社团招新，不得不说人家的体育氛围是真的好，从三大球到各种稀奇古怪的小众运动，都会有相应的社团、丰富的活动，甚至有自己的域名。迎新活动也很多白吃白喝的地方，总之来说，感觉比起某些理科学校，确实是人家办活动更认真、也更富裕。 </p><p> &ensp;&ensp;&ensp;&ensp;宝宝时常做一些噩梦，不知道有了我的捕梦网会不会好些。宝宝也有时担心我们的关系，我希望宝宝一个人能好好生活，当然和我一起更幸福更好，嘿嘿，总之少担心我这边情绪什么的啦。</p>]]>
+    </content>
+    <id>http://sxhlmy.love/2023/02/21/%E8%BF%91%E6%97%A5%E7%BA%AA%E9%97%BB/</id>
+    <link href="http://sxhlmy.love/2023/02/21/%E8%BF%91%E6%97%A5%E7%BA%AA%E9%97%BB/"/>
+    <published>2023-02-20T16:40:58.000Z</published>
+    <summary>
+      <![CDATA[<p>
+ &ensp;&ensp;&ensp;&ensp;今天是2月21，离情人节已经过去了一个礼拜，而我也已经和宝宝分开一周了。在这一周里，我进入了一种截然不同，却也没有什么割裂感的文化环境中，也陷入了对宝宝的思念。
+ </p>
+
+<p>
+ &ensp;&ensp;&ensp;]]>
+    </summary>
+    <title>近日纪闻</title>
+    <updated>2023-02-21T14:07:22.000Z</updated>
   </entry>
-  
   <entry>
-    <title>人生之歌</title>
-    <link href="http://sxhlmy.love/2022/12/06/%E4%BA%BA%E7%94%9F%E4%B9%8B%E6%AD%8C/"/>
-    <id>http://sxhlmy.love/2022/12/06/%E4%BA%BA%E7%94%9F%E4%B9%8B%E6%AD%8C/</id>
-    <published>2022-12-05T16:31:16.000Z</published>
-    <updated>2022-12-09T16:35:56.000Z</updated>
-    
-    <content type="html"><![CDATA[<p><img src="https://lover-1304073984.cos.ap-nanjing.myqcloud.com/love/adc83856e1b2a22940f9f0d782f517f0bbe0de70.jpg" alt="蛋堡-关于小熊mv-哔哩哔哩"></p><p>&ensp;&ensp;&ensp;&ensp;17年已经过去5年了，甚至快6年。</p><p>&ensp;&ensp;&ensp;&ensp;最开始听到蛋堡是17年，迷恋于他的歌所拥有的独特韵律、字斟句酌过的修辞与韵脚。比起当时的其他rapper天天嘴巴里票子马子车子，他的歌真的如同收敛水一样，某些时候更有种浅浅哀伤的氛围。当时的我，只是单纯地聆听，并沉浸于这种淡淡的哀伤中。我不会想到，这会让我与谁相遇，与怎样匪伊朝夕的缘分。而那首关于小熊，也成为了我们的人生之歌。</p><p>&ensp;&ensp;&ensp;&ensp;蛋堡是我们熟络的关键词，很难想象在当时除了我竟然还有人听这种小众歌手。你去KTV也点了他的几首歌，恰好qyx知道咱们俩都在听。多是一个巧合！于是借此为契机，我们每天一起聊天，一旦有时间我就会拿起手机和你敲字，聊高中生活、聊八卦、聊音乐、聊人生、聊彼此有趣的经历、倾诉各种情绪，算是高中忙碌生活中不小的慰藉。QQ小小的聊天窗，谱出了我们之间联系的一丝一缕。现在想来，能一起聊天这么久而不彼此嫌弃也是中难能可贵的契合，这是种少有，且之后不会再有的经历了。很难想象，虽然在网上我们无比熟络，在现实里却连招呼都没怎么打过。直到有次放学qyx和你走在后面，她看见我大喊：“sxh,你老婆lmy来了！”。吓得我不好意思的回头看，并抱头鼠窜。当然，心中还是无比窃喜。</p><p>&ensp;&ensp;&ensp;&ensp;后来还是一直聊天，聊到了高考结束，我们都去了上海玩，不过不是同一时间，你发给我很多照片看，我也发给你很多照片看。当时zhangxue和dty问我，“你们两个天天这样聊天，怎么不在一起？”，我嘴上说着，“没没没，没没没。”，心中却想的是，可以的话，一定会的。之后我们在一起，送你的第一个生日礼物选的是蛋堡的专辑，《踩.脚.踏.车》，这张专辑当时哪里都没有版权，我上淘宝找了好一会才找到实体版，只有你能听到。后来我也收齐的蛋堡的大部分实体专辑，完成了一个小小的愿望。</p><p>&ensp;&ensp;&ensp;&ensp;且论蛋堡的歌，还是在悲伤时更适合听。分开的日子里，我也常听，在海南我也自己唱，“關於小熊的故事 也關於你關於我關於留 關於走 關於喜歡與否。”，“他的填充物是遺憾 笑臉是假裝”，这些歌词句句戳心。要问听到最伤心的，还是那句“當畫面停在old days 抱在一起 男孩回答Always”。我会想起我们度过的日日夜夜，那些good old days在我的人生中熠熠生辉。无论蛋堡、关于小熊，亦或是关于他的其他歌曲或符号，已经深深植入我们的记忆与关系中，承载着我们的笑与泪，无数情绪都已经化入歌里了。这也是我们的人生之歌，至少目前，我们几乎三分之一的人生，都围绕这首歌展开与漫延。</p><p>&ensp;&ensp;&ensp;&ensp;    old days的的画面延伸，映向后方，我们会一直是Always，forever。</p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;p&gt;&lt;img src=&quot;https://lover-1304073984.cos.ap-nanjing.myqcloud.com/love/adc83856e1b2a22940f9f0d782f517f0bbe0de70.jpg&quot; alt=&quot;蛋堡-关于小熊mv-哔哩哔哩&quot;&gt;&lt;/</summary>
-      
-    
-    
-    
-    <category term="日常" scheme="http://sxhlmy.love/categories/%E6%97%A5%E5%B8%B8/"/>
-    
-    
-    <category term="date" scheme="http://sxhlmy.love/tags/date/"/>
-    
-    <category term="音乐" scheme="http://sxhlmy.love/tags/%E9%9F%B3%E4%B9%90/"/>
-    
+    <author>
+      <name>SOFILIPA</name>
+    </author>
+    <category term="date" scheme="http://sxhlmy.love/categories/date/"/>
+    <category term="奇妙体验" scheme="http://sxhlmy.love/tags/%E5%A5%87%E5%A6%99%E4%BD%93%E9%AA%8C/"/>
+    <content>
+      <![CDATA[<p> &ensp;&ensp;&ensp;&ensp;今天约好了和宝宝提前过情人节。酒店和待遇自然要选最好的，于是就丽思卡尔顿+行政待遇一条龙啦！可惜宝宝的身份证被妈妈拿去办事，过了天无证人的生活。下午我办好入住，接宝宝来房间，房间做了些简单布置，放了些气球、欢迎水果、小甜点。 </p> <p> &ensp;&ensp;&ensp;&ensp;丽思号称一天五顿，可惜我们只得五分之三，因为晚上要回家，那么首先就是下午茶了。 </p><p><img src="https://lover-1304073984.cos.ap-nanjing.myqcloud.com/love/image-20230212004301162.png" alt="image-20230212004301162" style="zoom: 33%;" /></p><center><div style="color:orange;    display: inline-block;    color: #999;    padding: 2px;">下午茶</div></center> <p> &ensp;&ensp;&ensp;&ensp;只能说味道是一言难尽，咸点可谓味道寡淡、或是口感奇特，甜点则有点用力过猛，不过倒是比咸点好些。唯一好吃的就是司康了，真的还不错。之后回到房间，宝宝换了身衣服，和订的蛋糕合照，这个蛋糕看似人畜无害，实则万恶之源，商家大概使用竹炭或是墨鱼汁来调色，奶油缺少香气，却多了不少苦味，属于是金玉其外败絮其中了。再者不知怎么的，衣服和鞋上都沾上了黑奶油，沾的地毯、床单上到处都是，为了保护我的押金，宝宝和我一起当了一个小时清洁工，一个洗床单、一个擦地板，属于受大苦了。 </p><p><img src="https://lover-1304073984.cos.ap-nanjing.myqcloud.com/love/image-20230212005339453.png" alt="image-20230212005339453" style="zoom:25%;" /></p><center><div style="color:orange;    display: inline-block;    color: #999;    padding: 2px;">宝宝美照</div></center><p><img src="https://lover-1304073984.cos.ap-nanjing.myqcloud.com/love/image-20230212004046688.png" alt="image-20230212004046688" style="zoom: 15%;" /></p><center><div style="color:orange;    display: inline-block;    color: #999;    padding: 2px;">万恶之源的蛋糕 不过照片倒是挺好看</div></center><p><img src="https://lover-1304073984.cos.ap-nanjing.myqcloud.com/love/image-20230212004959205.png" alt="image-20230212004959205" style="zoom: 33%;" /></p><center><div style="color:orange;    display: inline-block;    color: #999;    padding: 2px;">晾床单ing</div></center> <p> &ensp;&ensp;&ensp;&ensp;但不得不说，下午一起躺着的时候真的好舒服，酒店的床品太棒啦！！！关掉灯，窗外下着小雨，缝隙里透出些微弱昏暗的光线，更添几分静谧的氛围，人也跟着倦了。 </p><p><img src="https://lover-1304073984.cos.ap-nanjing.myqcloud.com/love/image-20230212005242411.png" alt="image-20230212005242411" style="zoom:15%;" /></p><center><div style="color:orange;    display: inline-block;    color: #999;    padding: 2px;">下午</div></center> <p> &ensp;&ensp;&ensp;&ensp;晚上九点半退房回家，前台惊讶于为什么这么早退房，打到车的司机像是不会开车一样，小心翼翼，左顾右盼，慢慢悠悠，最后还开错了路，还不如我开。总之是开心且水逆的一天，希望一切能好起来。 </p>]]>
+    </content>
+    <id>http://sxhlmy.love/2023/02/12/%E9%AB%98%E6%96%B0%E4%B8%80%E6%97%A5%E6%B8%B8/</id>
+    <link href="http://sxhlmy.love/2023/02/12/%E9%AB%98%E6%96%B0%E4%B8%80%E6%97%A5%E6%B8%B8/"/>
+    <published>2023-02-11T16:10:31.000Z</published>
+    <summary>
+      <![CDATA[<p>
+ &ensp;&ensp;&ensp;&ensp;今天约好了和宝宝提前过情人节。酒店和待遇自然要选最好的，于是就丽思卡尔顿+行政待遇一条龙啦！可惜宝宝的身份证被妈妈拿去办事，过了天无证人的生活。下午我办好入住，接宝宝来房间，房间做了些简单布置，放了些气球、欢迎水果、小甜]]>
+    </summary>
+    <title>高新一日游</title>
+    <updated>2023-02-21T10:22:16.000Z</updated>
   </entry>
-  
   <entry>
-    <title>越南菜、一番赏与创意谷</title>
-    <link href="http://sxhlmy.love/2022/12/04/%E8%B6%8A%E5%8D%97%E8%8F%9C%E3%80%81%E4%B8%80%E7%95%AA%E8%B5%8F%E4%B8%8E%E5%88%9B%E6%84%8F%E8%B0%B7/"/>
-    <id>http://sxhlmy.love/2022/12/04/%E8%B6%8A%E5%8D%97%E8%8F%9C%E3%80%81%E4%B8%80%E7%95%AA%E8%B5%8F%E4%B8%8E%E5%88%9B%E6%84%8F%E8%B0%B7/</id>
-    <published>2022-12-04T15:51:40.000Z</published>
-    <updated>2022-12-06T04:32:50.000Z</updated>
-    
-    <content type="html"><![CDATA[<p>&ensp;&ensp;&ensp;&ensp;又是等老婆下班的一天捏。五点下班，今天去小寨，长安北路像以往一样堵得让人血压飙升，车流一点点地向前挪动着，等待下个红绿灯给予的微薄的掉头希望。等我到了之后，老婆已经在路边等到手机没电，可谓是最让现代人失去安全感的几件事之一。赶紧去底下扫了个充电宝，去餐厅吃饭。</p><img src="https://lover-1304073984.cos.ap-nanjing.myqcloud.com/love/image-20221205003352739.png" alt="image-20221205003352739" style="zoom:15%;" /><center><div style="color:orange;    display: inline-block;    color: #999;![image-20221205010544183](C:\Users\xuhan\AppData\Roaming\Typora\typora-user-images\image-20221205010544183.png)    padding: 2px;">炙烤猪颈肉</div></center><img src="https://lover-1304073984.cos.ap-nanjing.myqcloud.com/love/image-20221205010557195.png" alt="image-20221205010557195" style="zoom: 10%;" /><center><div style="color:orange;    display: inline-block;    color: #999;![image-20221205010544183](C:\Users\xuhan\AppData\Roaming\Typora\typora-user-images\image-20221205010544183.png)    padding: 2px;">潮女先锋艺术家约会被狗仔抓拍</div></center><p>&ensp;&ensp;&ensp;&ensp;餐厅的主打是越南菜，近些年越餐似乎也成为了餐饮流派中比较流行的一支，主要是卖卖河粉、春卷和烤肉之类，一般也很难做的难吃。这不是我第一次来这家餐厅，上次是和高中同学来，他们俩吃了不少。每次来这里我都会点一样的东西————牛肉面包，外皮是烤的脆脆的两块法棍似的面包，里面是一些蔬菜和炙烤过的牛肉，辅以一点点沙拉酱，看似平淡的组合，味道其实还是不错的。老婆点了火车头河粉，里面的牛肉分给我吃了很多，每次吃这种东西我都只吃里面的肉，放弃很多碳水，宝宝与我在吃泡馍的习惯上倒是互补，一个都不怎么吃，一个只吃肉，两个人合吃一份，倒是有些吃完的希望。我带的冲锋衣内胆倒是派上了很大的用场，宝宝穿上意外的不冷了，活脱脱潮女先锋艺术家一枚~~~~~</p><p><img src="https://lover-1304073984.cos.ap-nanjing.myqcloud.com/love/image-20221205005904940.png" alt="image-20221205005904940" style="zoom:15%;" /></p><center><div style="color:orange;    display: inline-block;    color: #999;    padding: 2px;">一番赏红发</div></center><p><img src="https://lover-1304073984.cos.ap-nanjing.myqcloud.com/love/image-20221205005955247.png" alt="image-20221205005955247" style="zoom:15%;" /></p><center><div style="color:orange;    display: inline-block;    color: #999;    padding: 2px;">40元喜相逢</div></center><p>&ensp;&ensp;&ensp;&ensp;酒足饭饱，本想去调个香水玩玩，路上经过盲盒店，恰好有海贼王的一番赏抽，两个人想着不如碰碰运气，59*2，买了两抽。然后就中了，只听见店员卧槽一句，这版算是又废了。我们两个人狂笑着，店里洋溢着快活的空气。不得不说最近某人的运气真的不错，不仅抽中了，抽中的还是红发，这个老好人想来没有任何人会嫌弃，真棒。接着上楼，又路过刮刮乐，择日不如撞日，刮刮先！60->40->20->0。玩了四轮，创下了我们买两张刮刮乐玩得轮数记录，不得不说今天运气是真的很好！我人生刮刮乐最高中奖记录也被刷新20->40，提升100%。</p><p><img src="https://lover-1304073984.cos.ap-nanjing.myqcloud.com/love/image-20221205010301606.png" alt="image-20221205010301606" style="zoom: 33%;" /></p><center><div style="color:orange;    display: inline-block;    color: #999;    padding: 2px;">图片之一</div></center><p>&ensp;&ensp;&ensp;&ensp;最后决定去某人不太想让我去的创意谷，真是农村人进城，处处感到惊奇，身为陕北洋芋蛋，我的精神世界再次收到了冲击，找了个咖啡馆一起坐了会，两个人一起P了些稀奇古怪的图片，在路上依偎了一会，依依不舍地各自回家了。</p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;p&gt;
-&amp;ensp;&amp;ensp;&amp;ensp;&amp;ensp;又是等老婆下班的一天捏。五点下班，今天去小寨，长安北路像以往一样堵得让人血压飙升，车流一点点地向前挪动着，等待下个红绿灯给予的微薄的掉头希望。等我到了之后，老婆已经在路边等到手机没电，可谓是最让现代人失去安全感的几件事之一。</summary>
-      
-    
-    
-    
+    <author>
+      <name>SOFILIPA</name>
+    </author>
+    <category term="随笔" scheme="http://sxhlmy.love/tags/%E9%9A%8F%E7%AC%94/"/>
+    <content>
+      <![CDATA[<p> &ensp;&ensp;&ensp;&ensp;上次更新还是在一月十六号，原本以为我会恢复之前的更新频率，但现在已经是一月二十八日的的凌晨了。过去的这段日子里，宝宝发了好几天烧，原因不明，好在医生说没有什么异样，宝宝也算恢复了健康，从此开始笃信不可吃斋饭，及时补充蛋白质与维生素，坚持锻炼，塑造一个健康的躯体才是根本。 </p> <p> &ensp;&ensp;&ensp;&ensp;写下的时候已是大年初七，红色的灯火依然映在城市上空，零星夹杂些爆竹声与绽放的花火，但游客几乎散去，西安的街上恢复了几分寂寥的光景。细数这段日子，我们也共同做了许多事。泡温泉总是我对你提起的一个倡议与活动，但由于一些家庭规定的原因，宝宝很难在外过夜，就一直搁置，最后宝宝索性带我在城里泡了，之前是真的不知道城里还有这种“私汤”的存在。小小的房间里一应俱全，一池水蒸腾着热气，池头甚至还有一个造景。我们在池中相拥、亲吻、合照，完成了小小的愿望。美中不足的是氤氲在狭小室内的热气由于通风不足而让人头脑发昏，只得早早离去。我们还在老菜场吃到了很一般的提拉米苏，咸咸的汉堡。 </p> <p> &ensp;&ensp;&ensp;&ensp;正值春节档，电影自然也是少不了的。影院反常的座无虚席，议论声、电影声、小孩发疯声，在耳畔回荡着。《流浪地球2》可谓对我来说算是一个惊喜，本来觉得凑活陪家人看看也没什么，但影片质量真的出乎意料的高，其中的太空电梯、空战、行星推进器，让我想起第一次看到星球大战的激动，再不济，中国电影的工业化也上了个等级，我很兴奋。剧情其实还是经典的拯救地球套路，编年体的叙事也造成了一些混乱，但瑕不掩瑜，中国的科幻这个可排第一，没什么好争议的。当然，也和宝宝看了《满江红》，不得不说是十分过誉了，饭圈文化的泛滥、自媒体的瞎捧、对赌协议的裹挟，造就了一个笑点不好笑、偷票房、剧情奇怪的及格商业片。真想扇那些说好久没看到这么好看的电影的人，没事多看看电影，甚至柯南都行，不要没墨水就出来瞎bb。 </p> <p> &ensp;&ensp;&ensp;&ensp;另外一个我想谈的，应该是变化。高中毕业已有四年余，曾经的同学们有的升学、有的工作、有的早早结婚，大家多少从不经人事的学生变成了承担些社会责任的成年人。ryan从高中的多情浪子，变成了个万花丛中过的老处男，不变的是天天想恋爱。dty继承了一向兴旺的运势，当了清华人上人，性格从e变i，因为什么呢，或许是对象，或许是实验室里的派系纷争，我也不知道。李晨豪从当时的数学少年，变成了求爱不得的失意人，背甚至都佝偻了些，也变得不爱说话。我想说，少年心气是真的很容易遗失的，遗失在不得不面对的人情社会里，遗失在失败的感情、失业中，遗失在社会大潮的变化里，大家或多或少的颓唐了起来。希望宝宝能一直保持本心，做些想做的事就好。 </p>]]>
+    </content>
+    <id>http://sxhlmy.love/2023/01/28/%E6%B7%B1%E5%A4%9C%E9%9A%8F%E7%AC%94/</id>
+    <link href="http://sxhlmy.love/2023/01/28/%E6%B7%B1%E5%A4%9C%E9%9A%8F%E7%AC%94/"/>
+    <published>2023-01-27T20:26:04.000Z</published>
+    <summary>
+      <![CDATA[<p>
+ &ensp;&ensp;&ensp;&ensp;上次更新还是在一月十六号，原本以为我会恢复之前的更新频率，但现在已经是一月二十八日的的凌晨了。过去的这段日子里，宝宝发了好几天烧，原因不明，好在医生说没有什么异样，宝宝也算恢复了健康，从此开始笃信不可吃斋饭，及时补充蛋白]]>
+    </summary>
+    <title>深夜随笔</title>
+    <updated>2023-02-11T16:15:08.000Z</updated>
+  </entry>
+  <entry>
+    <author>
+      <name>SOFILIPA</name>
+    </author>
+    <category term="date" scheme="http://sxhlmy.love/categories/date/"/>
+    <category term="美食、奇妙体验" scheme="http://sxhlmy.love/tags/%E7%BE%8E%E9%A3%9F%E3%80%81%E5%A5%87%E5%A6%99%E4%BD%93%E9%AA%8C/"/>
+    <content>
+      <![CDATA[<p> &ensp;&ensp;&ensp;&ensp;最近很久没有更新，或是在蚌埠游走、或是在朋友聚会、或是每天和宝宝在外面待到很晚，以至于回家后累的只能倒在床上休息。西安最近下了雪，南边的雪比北边大些，外面冷冽的天气并不影响大家放炮或烟花，天空中闪烁的光影参差着地面四周红色的点缀，大家一起享受着难得的节日气息。 </p><p><img src="https://lover-1304073984.cos.ap-nanjing.myqcloud.com/love/image-20230116194221204.png" alt="image-20230116194221204" style="zoom: 50%;" /></p><center><div style="color:orange;    display: inline-block;    color: #999;    padding: 2px;">附美照一张</div></center><img src="https://lover-1304073984.cos.ap-nanjing.myqcloud.com/love/5a11-ifvwfti7192416.jpg" alt="谢霆锋张曼玉一起骑单车照片曝光，重温当年甜蜜蜜|甜蜜蜜|张曼玉|谢霆锋_新浪新闻" style="zoom: 67%;" /><center><div style="color:orange;    display: inline-block;    color: #999;    padding: 2px;">甜蜜蜜剧照</div></center> <p> &ensp;&ensp;&ensp;&ensp;说来爱情片还真是不适合我们，不久前说着一起看情人，看到一半得我昏昏欲睡。一些关于老男人和未成年少女的故事上演，至少我们应该还没看到什么精彩片段，没有什么出彩或错愕的感觉，直接结束放映，感觉之前我看的cut里的梁家辉都比电影里好看不少。要说我们看过的较好的爱情片，甜蜜蜜算一部。虽说男女主之间的感情我们不甚理解，但电影的时代映射、符号，配角之间的感情波动，依然能让人为之动容。虽说也有些较为俗套的桥段，但导演的处理让人还比较容易接受。总之好片一部啦，甜蜜蜜的电影与邓丽君一起，都是值得被铭记的。 </p><p><img src="https://lover-1304073984.cos.ap-nanjing.myqcloud.com/love/p2539127687.webp" alt="The Ballad of Buster Scruggs" style="zoom: 110%;" /></p><center><div style="color:orange;    display: inline-block;    color: #999;    padding: 2px;">巴斯特·斯克鲁格斯的歌谣</div></center> <p> &ensp;&ensp;&ensp;&ensp;受够了爱情片的摧残，我挑了部西部片来看。巴斯特·斯克鲁格斯的歌谣，讲了六个美国西部发生的小故事。从写实的到隐喻的，映射出一个时代背景下的人群画像。有传奇神枪手，百余次决斗而无败绩。牛仔一生颠沛想要寻安居之处。也有普通美国白人们为了土地而迁移，与印第安人争斗，失去重要的人，又因为利益而放弃、杀死其他人，最终走向不可抗拒的死亡与终点，成为他人口中的故事、隐于茫茫西迁的车队中，或是葬于荒野的孤冢里。 </p>]]>
+    </content>
+    <id>http://sxhlmy.love/2023/01/16/%E6%81%A2%E5%A4%8D%E6%9B%B4%E6%96%B0%EF%BC%81/</id>
+    <link href="http://sxhlmy.love/2023/01/16/%E6%81%A2%E5%A4%8D%E6%9B%B4%E6%96%B0%EF%BC%81/"/>
+    <published>2023-01-16T11:09:17.000Z</published>
+    <summary>
+      <![CDATA[<p>
+ &ensp;&ensp;&ensp;&ensp;最近很久没有更新，或是在蚌埠游走、或是在朋友聚会、或是每天和宝宝在外面待到很晚，以至于回家后累的只能倒在床上休息。西安最近下了雪，南边的雪比北边大些，外面冷冽的天气并不影响大家放炮或烟花，天空中闪烁的光影参差着地面四周红]]>
+    </summary>
+    <title>恢复更新！</title>
+    <updated>2023-02-11T16:41:22.000Z</updated>
+  </entry>
+  <entry>
+    <author>
+      <name>SOFILIPA</name>
+    </author>
+    <category term="date" scheme="http://sxhlmy.love/categories/date/"/>
+    <category term="美食、奇妙体验" scheme="http://sxhlmy.love/tags/%E7%BE%8E%E9%A3%9F%E3%80%81%E5%A5%87%E5%A6%99%E4%BD%93%E9%AA%8C/"/>
+    <content>
+      <![CDATA[<p> &ensp;&ensp;&ensp;&ensp;先去吃了台湾菜，口味平平，面线与我记忆中的台湾味道相去甚远，老板说材料什么的都是台湾来的，当然，老板还是很热情的，大肠包小肠也不错。爌肉饭倒是不如沙东的把子肉香。 </p> <p> &ensp;&ensp;&ensp;&ensp;台湾餐馆离宝宝的初中很近，这也是我中考的地方，记忆里操场伫立着一个双层的厕所，这在其他地方是很少见的。很巧，我中考在宝宝初中，宝宝中考在我真正的高中，某种意义上也是有缘人。老菜场也在不远的地方，看过很多人发过，却从来没去过，新奇中透露着萧条，小酒馆、中古店参差错落着，我们上二楼，有了些难忘的际遇。 </p><img src="https://lover-1304073984.cos.ap-nanjing.myqcloud.com/love/image-20230104201620779.png" alt="image-20230104201620779" style="zoom:5%;" /><center><div style="color:orange;    display: inline-block;    color: #999;    padding: 2px;">蛇哈达</div></center><img src="https://lover-1304073984.cos.ap-nanjing.myqcloud.com/love/image-20230104201826482.png" alt="image-20230104201826482" style="zoom:10%;" /><center><div style="color:orange;    display: inline-block;    color: #999;    padding: 2px;">左拥右抱</div></center><img src="https://lover-1304073984.cos.ap-nanjing.myqcloud.com/love/image-20230104202014252.png" alt="image-20230104202014252" style="zoom: 33%;" /><center><div style="color:orange;    display: inline-block;    color: #999;    padding: 2px;">巴士蛙</div></center><img src="https://lover-1304073984.cos.ap-nanjing.myqcloud.com/love/image-20230104202048144.png" alt="image-20230104202048144" style="zoom:15%;" /><center><div style="color:orange;    display: inline-block;    color: #999;    padding: 2px;">防疫蛙</center> <p> &ensp;&ensp;&ensp;&ensp;一进店，店主就把一条蛇放到我手上，太奇妙了。之后和宝宝各拿一条蛇把玩了半天，之后还摸了树蛙和守宫，奇妙的触感，甚至还有蛇哈达。当然，店主让我们玩这么久，我们也不会白嫖，火速入蛙蛙教！ </p>]]>
+    </content>
+    <id>http://sxhlmy.love/2023/01/04/%E5%8F%B0%E6%B9%BE%E8%8F%9C%E3%80%81%E5%A5%87%E5%A6%99%E7%88%AC%E5%AE%A0%E5%BA%97/</id>
+    <link href="http://sxhlmy.love/2023/01/04/%E5%8F%B0%E6%B9%BE%E8%8F%9C%E3%80%81%E5%A5%87%E5%A6%99%E7%88%AC%E5%AE%A0%E5%BA%97/"/>
+    <published>2023-01-04T10:58:05.000Z</published>
+    <summary>
+      <![CDATA[<p>
+ &ensp;&ensp;&ensp;&ensp;先去吃了台湾菜，口味平平，面线与我记忆中的台湾味道相去甚远，老板说材料什么的都是台湾来的，当然，老板还是很热情的，大肠包小肠也不错。爌肉饭倒是不如沙东的把子肉香。
+ </p>
+
+ <p>
+ &ensp;&ensp;&en]]>
+    </summary>
+    <title>台湾菜、奇妙爬宠店</title>
+    <updated>2023-01-16T11:42:46.000Z</updated>
+  </entry>
+  <entry>
+    <author>
+      <name>SOFILIPA</name>
+    </author>
+    <category term="电影" scheme="http://sxhlmy.love/categories/%E7%94%B5%E5%BD%B1/"/>
+    <category term="电影" scheme="http://sxhlmy.love/tags/%E7%94%B5%E5%BD%B1/"/>
+    <content>
+      <![CDATA[<p><img src="https://lover-1304073984.cos.ap-nanjing.myqcloud.com/love/p1103205323.jpg" alt="一天 蓝光原盘下载+高清MKV版/真爱挑日子(台) / 情约1天(港) / 一年恋一天 / 一天的恋人 / 年年有今日 / 每年今日 2011 One Day 29.7G" style="zoom:33%;" /></p><p><center><div style="color:orange;    display: inline-block;    color: #999;    padding: 2px;">one day</div></center><br> <p> &ensp;&ensp;&ensp;&ensp;除了每年同一天的叙事手法有点意思，这电影真的是过誉完了，其实就连叙事手法都很俗套，是我这种电影白痴都能想到的叙事。很难明白导演是在想传达一些什么东西，一眼万年的感情？遗憾结束的灵魂伴侣？或是暗暗抑制却还是爆发的感情？我是一直云里雾里。整个片子三观有够歪的，无非讲的是一个浪荡男主和普人女主的故事，男主年少多金有才浪子，女主默默餐厅打工诗人。历尽千帆，男主人生低谷处终于与女主相聚，然后女主被车创死。若是灵魂伴侣，为何不早早在一起，而要始终和别人缠绵？男主对女主来说可能是，女主之于男主，我更愿意称之为一个“特殊的”备胎，因为其他人他轻轻松松就睡到，而女主是唯一和他维系着特殊关系的人，倘若第一天男主爸妈真的不回家，我感觉也就更是个单相思的故事。男主所谓的现世报，事业失利，被曾经看不起的人雇佣并绿，女主被车撞，真的让我怀疑自己是不是点进了什么韩剧网站或者琼瑶复古频道。这样一部电影，点开评论网站一看，满满的溢美之词，评分高达7.9，在列什么10部必看的爱情片，“我最爱的电影，看了5次，每次都有新感受！”，很难想象有什么碳基生物能发出这样的感慨，我倒成了少数派了。总之，trash一部，拉黑导演+编剧，这部电影最好的，可能是安妮海瑟薇了？ </p></p>]]>
+    </content>
+    <id>http://sxhlmy.love/2022/12/30/day/</id>
+    <link href="http://sxhlmy.love/2022/12/30/day/"/>
+    <published>2022-12-30T04:06:06.000Z</published>
+    <summary>
+      <![CDATA[<p><img src="https://lover-1304073984.cos.ap-nanjing.myqcloud.com/love/p1103205323.jpg" alt="一天 蓝光原盘下载+高清MKV版/真爱挑日子(台) / 情约1天(港) / 一年恋一天 / 一]]>
+    </summary>
+    <title>one day</title>
+    <updated>2023-01-04T12:17:54.000Z</updated>
+  </entry>
+  <entry>
+    <author>
+      <name>SOFILIPA</name>
+    </author>
+    <category term="电影" scheme="http://sxhlmy.love/categories/%E7%94%B5%E5%BD%B1/"/>
+    <category term="电影" scheme="http://sxhlmy.love/tags/%E7%94%B5%E5%BD%B1/"/>
+    <content>
+      <![CDATA[<p><img src="https://lover-1304073984.cos.ap-nanjing.myqcloud.com/love/091298de9ae844c68c39f9c4efe10ce4_th.jpg" alt="猜火车》这么丧的人生，为何成为我的精神支柱？"></p><center><div style="color:orange;    display: inline-block;    color: #999;    padding: 2px;">猜火车</div></center><blockquote><p>我为什么这样做?我可以提供上万个答案，可是全部是错误的。事实上我本来就是一个坏人，但是我会改变，我正在改变。这是我最后一次做这种事情。我已经洗心革面，继续前进，一直向前，选择生活。我已经在期盼那样的生活了。我将像你一样：工作，家庭，他妈的大电视机，洗衣机，汽车，镭射音响，电动开罐器，保养自己的身体、低胆固醇，牙医保险，抵押贷款，低价住房，休闲装，旅行包，三件套，DIY，体育节目，垃圾食品，子女，在公园散步，朝九晚五，打高尔夫，洗车，选择毛衣，家庭圣诞，养老金免税，清理下水道过日子，一直向前，直到死的那一天。</p></blockquote> <p> &ensp;&ensp;&ensp;&ensp;猜火车，苏格兰最恶心的厕所，肆意纵情的青春、毒品、性爱录像带、抢劫，到最后的走入新生活，像其他正常人一样。 </p><img src="https://lover-1304073984.cos.ap-nanjing.myqcloud.com/love/v2-086dcab9625bc9be74b2536d93d140d0_1440w.webp" alt="一部获得奥斯卡的禁片— 《发条橙》 - 知乎" style="zoom: 40%;" /><center><div style="color:orange;    display: inline-block;    color: #999;    padding: 2px;">发条橙</div></center>> When a man cannot choose, he ceases to be a man。> 当一个人无法选择时，他不再是一个人。> <p> &ensp;&ensp;&ensp;&ensp;发条橙，老伦敦人口中受发条控制的生物体。一部有多层解读的cult片，看的过程让人san值狂掉。之后看影评细细品味，库布里克还是有东西的。</p><p><img src="https://lover-1304073984.cos.ap-nanjing.myqcloud.com/love/1669207135773_kuwcwjhhiieoz.jpeg@!thumb800" alt="迪士尼惊天巨变，22亿《阿凡达2》终于定档，是来救谁的？-蓝鲸财经" style="zoom:55%;" /></p><center><div style="color:orange;    display: inline-block;    color: #999;    padding: 2px;">阿凡达2</div></center> <p> &ensp;&ensp;&ensp;&ensp;卡梅隆再次十年磨一剑，磨出来了特效精彩的依托答辩。典型的爆米花院线片，典型的美式爹味，典型的个人英雄主义，典型的老实大哥去世，这个片子可以被套进各种俗套的情节中去，但架不住它也是唯一的，因为除了卡梅隆没人能用这么高预算、这么多特效、组成依托答辩。当然，看的还是很爽的。</p><p><img src="https://lover-1304073984.cos.ap-nanjing.myqcloud.com/love/image-20221229165805408.png" alt="image-20221229165805408" style="zoom:33%;" /></p><center><div style="color:orange;    display: inline-block;    color: #999;    padding: 2px;">经典背影环节</div></center><p><img src="https://lover-1304073984.cos.ap-nanjing.myqcloud.com/love/image-20221229165833388.png" alt="image-20221229165833388" style="zoom:33%;" /></p><center><div style="color:orange;    display: inline-block;    color: #999;    padding: 2px;">怪怪烫烫的咖啡</div></center><p><img src="https://lover-1304073984.cos.ap-nanjing.myqcloud.com/love/image-20221229165913581.png" alt="image-20221229165913581" style="zoom:33%;" /></p><center><div style="color:orange;    display: inline-block;    color: #999;    padding: 2px;">宝宝送的乐高玫瑰</div></center>]]>
+    </content>
+    <id>http://sxhlmy.love/2022/12/29/%E7%8C%9C%E7%81%AB%E8%BD%A6%E3%80%81%E5%8F%91%E6%9D%A1%E6%A9%99%E3%80%81%E9%98%BF%E5%87%A1%E8%BE%BE2/</id>
+    <link href="http://sxhlmy.love/2022/12/29/%E7%8C%9C%E7%81%AB%E8%BD%A6%E3%80%81%E5%8F%91%E6%9D%A1%E6%A9%99%E3%80%81%E9%98%BF%E5%87%A1%E8%BE%BE2/"/>
+    <published>2022-12-29T08:20:52.000Z</published>
+    <summary>
+      <![CDATA[<p><img src="https://lover-1304073984.cos.ap-nanjing.myqcloud.com/love/091298de9ae844c68c39f9c4efe10ce4_th.jpg" alt="猜火车》这么丧的人生，为何成为我的精神支柱？"]]>
+    </summary>
+    <title>猜火车、发条橙、阿凡达2</title>
+    <updated>2022-12-30T04:07:20.000Z</updated>
+  </entry>
+  <entry>
+    <author>
+      <name>SOFILIPA</name>
+    </author>
+    <category term="电影" scheme="http://sxhlmy.love/categories/%E7%94%B5%E5%BD%B1/"/>
+    <category term="电影" scheme="http://sxhlmy.love/tags/%E7%94%B5%E5%BD%B1/"/>
+    <content>
+      <![CDATA[<p><img src="https://lover-1304073984.cos.ap-nanjing.myqcloud.com/love/d3653105.jpg" alt="d3653105"></p><center><div style="color:orange;    display: inline-block;    color: #999;    padding: 2px;">蓝色大门</div></center><p>&ensp;&ensp;&ensp;&ensp;蓝色大门，印象里这四个字以前在其他看过的影评里被提到过很多次。听得最多的是电影里的几句对白：</p><blockquote><p>张士豪：好不甘心喔，整个夏天都快过完了，好像什么事都没有做。</p><p>孟克柔：对呀，好像就只是跑来跑去，什么事都没有做。</p><p>张士豪：你看，没有赢过一场比赛，真的什么事都没有做。</p><p>张士豪：你想到什么？</p><p>孟克柔：那你想到什么？</p><p>张士豪：但是总是会留下一些什么吧，留下什么，我们就变成什么样的大人。</p></blockquote><p>&ensp;&ensp;&ensp;&ensp;台湾的很多电影有着蓝绿色的色调，正如它的名字一样，蓝色大门，它也有着这样的色调。士豪在鱼缸边上自己一个人打电话是这样，克柔在泳池边看士豪游泳时是这样，士豪拒绝月珍时也是这样。电影集齐了唤醒青春的很多要素：夏天、海边、高中、年轻而美好的人们、几近萌发而没有结果的感情。里面也有着青涩的桂纶镁和陈柏霖。克柔演的很像未经人事的小女生，经常做出一些成年人的角度匪夷所思的事情，而这又恰恰突出了她的单纯，倘若抛开那么多先入为主的教条与桎梏，每个人都会自己探索自己的感情世界，无论是性取向，或是感情的对象与方式。而士豪也是那种单纯而大大咧咧的男生，口头禅是：“我是张士豪，游泳队，吉他社，我还不错!”，听起来憨憨的，不过却是我很羡慕的那种直率，黑黑的皮肤，很好的身体，很单纯的人。</p><p>&ensp;&ensp;&ensp;&ensp;看的电影多了，发现很多承载盛誉的电影其实拍的都很平淡，单纯的叙述，简单的镜头，没有复杂的手法，有时候看完会觉得：“为什么会有这么高的评分啊。”。但仔细想来，全片没有什么痛点尿点，导演传达了想传达的，观众也很多共鸣，这就足够了，每个人的心中都有一扇自己的蓝色大门。比起大陆那些动辄逃学、堕胎、游历社会的青春片，或者是伤痛片，蓝色大门这种片子确实是可以涤荡双眼的。</p><p>&ensp;&ensp;&ensp;&ensp;（宝宝又生病了，希望宝宝早日康复，我们早点见面(•̀ᴗ• )）</p>]]>
+    </content>
+    <id>http://sxhlmy.love/2022/12/23/%E8%93%9D%E8%89%B2%E5%A4%A7%E9%97%A8/</id>
+    <link href="http://sxhlmy.love/2022/12/23/%E8%93%9D%E8%89%B2%E5%A4%A7%E9%97%A8/"/>
+    <published>2022-12-23T12:33:15.000Z</published>
+    <summary>
+      <![CDATA[<p><img src="https://lover-1304073984.cos.ap-nanjing.myqcloud.com/love/d3653105.jpg" alt="d3653105"></p>
+<center><div style="color:orange;]]>
+    </summary>
+    <title>蓝色大门</title>
+    <updated>2022-12-29T08:46:26.000Z</updated>
+  </entry>
+  <entry>
+    <author>
+      <name>SOFILIPA</name>
+    </author>
     <category term="日常" scheme="http://sxhlmy.love/categories/%E6%97%A5%E5%B8%B8/"/>
-    
-    
-    <category term="美食" scheme="http://sxhlmy.love/tags/%E7%BE%8E%E9%A3%9F/"/>
-    
     <category term="游戏" scheme="http://sxhlmy.love/tags/%E6%B8%B8%E6%88%8F/"/>
-    
-    <category term="date" scheme="http://sxhlmy.love/tags/date/"/>
-    
+    <content>
+      <![CDATA[<p><img src="https://lover-1304073984.cos.ap-nanjing.myqcloud.com/love/image-20221220000326667.png" alt="image-20221220000326667" style="zoom:20%;" /></p><center><div style="color:orange;    display: inline-block;    color: #999;    padding: 2px;">纪念版行程卡</div></center><p>&ensp;&ensp;&ensp;&ensp;封控时大家总在提三个字————烟火气，怀念一些疫情前的日子，三五好友一起小酌、世界各地旅行、依旧繁荣的实体商业，无需核酸或是行程码便可畅行无阻。放开后的日子与之前有些相似，至少一半相似，行程码的小程序已经注销了，核酸也只在学校、医院这样的场所被要求。但与往日不同的是，餐厅、酒吧里没有熙熙攘攘的人群，大家要么阳了在家休养，要么害怕阳而深居浅出。</p><p><img src="https://lover-1304073984.cos.ap-nanjing.myqcloud.com/love/image-20221219235954234.png" alt="image-20221219235954234" style="zoom: 50%;" /></p><center><div style="color:orange;    display: inline-block;    color: #999;    padding: 2px;">游戏</div></center><p>&ensp;&ensp;&ensp;&ensp;我和小刘的病也都基本差不多了，只剩下些咳嗽、头晕、流鼻涕等轻度的后遗症。但还是在家不能出门，百无聊赖，想来一起打游戏是再好不过的消遣。带小刘搞个steam账号一起打游戏是我很久之前就有的想法。小刘很聪明，给了一个梯子和一个安装包，很快就自己搞好了账号，买了游戏。</p><p><img src="https://lover-1304073984.cos.ap-nanjing.myqcloud.com/love/image-20221219235819204.png" alt="image-20221219235819204" style="zoom: 33%;" /></p><center><div style="color:orange;    display: inline-block;    color: #999;    padding: 2px;">一些解谜过程</div></center><p>&ensp;&ensp;&ensp;&ensp;这次玩得是The Past Within，绣湖系列的新作，也是他们出的第一部双人游戏。说来我也和绣湖系列有些缘分，大一的时候刚转完专业，小学期老师让用QT来做游戏，当时和同学就是重置了绣湖的一版，可惜最后遇到技术上的一些问题，完成度不是很高，最后草草做了个别的游戏收场。绣湖系列秉持着一向压抑的画风与致郁系剧情，算是很有名的解谜游戏。这部更是弱化的解密中的思考，注重二人之间的交流，只要交流顺畅基本没有什么阻碍，小刘悟性很高，很快上手并如鱼得水，我们也很快的通关啦！游戏质量依旧稳定，不过也鲜有惊喜。希望以后一起玩更多游戏，耶耶！</p>]]>
+    </content>
+    <id>http://sxhlmy.love/2022/12/19/Within/</id>
+    <link href="http://sxhlmy.love/2022/12/19/Within/"/>
+    <published>2022-12-19T03:48:16.000Z</published>
+    <summary>
+      <![CDATA[<p><img src="https://lover-1304073984.cos.ap-nanjing.myqcloud.com/love/image-20221220000326667.png" alt="image-20221220000326667" style="zoo]]>
+    </summary>
+    <title>The Past Within</title>
+    <updated>2022-12-23T12:46:26.000Z</updated>
   </entry>
-  
+  <entry>
+    <author>
+      <name>SOFILIPA</name>
+    </author>
+    <category term="随笔" scheme="http://sxhlmy.love/categories/essay/"/>
+    <category term="奇遇" scheme="http://sxhlmy.love/tags/%E5%A5%87%E9%81%87/"/>
+    <content>
+      <![CDATA[<p><img src="https://lover-1304073984.cos.ap-nanjing.myqcloud.com/love/image-20221215195532136.png" alt="image-20221215195532136" style="zoom:12%;" /></p><center><div style="color:orange;    display: inline-block;    color: #999;    padding: 2px;">背影</div></center><p>&ensp;&ensp;&ensp;&ensp;12月12日，宝宝的状态很不好，发低烧、头晕，还在地铁上流鼻血到了白色衣服上。晚上约了在小世界见面，那是家经过了很多次，但从未品尝过的餐厅。那天应该是最近出门的日子里最冷的一天，街上行人萧瑟，本来以为要排队的餐厅还剩很多空位。餐厅里面很小，就和名字一样，满打满算能坐二十人的样子，昏暗的灯光点缀着有些年头的装扮，衬出些圣诞的气氛。宝宝一脸憔悴的倚着我，向我讲今天发生了些什么。餐厅味道尚可，分量倒是一般，加了份披萨吃完之后时间已经不早，快快离开了。门外是很冷的天气，宝宝每次从温暖室内到室外时，总会浑身发抖，这时，我会抱着宝宝。不久，就到了我的第二故乡，创意谷，无处可去，去了星巴克，点了经典的小学生饮料冰摇桃桃还有我力荐的巧克力可颂，当然，最重要的还是宝宝给我拍了拍立得，耶耶！最后，我们在小区门口，拥吻，离别。</p><p><img src="https://lover-1304073984.cos.ap-nanjing.myqcloud.com/love/image-20221215194712175.png" alt="image-20221215194712175" style="zoom:25%;" /></p><center><div style="color:orange;    display: inline-block;    color: #999;    padding: 2px;">大家喜欢的黄桃罐头</div></center><p>&ensp;&ensp;&ensp;&ensp;宝宝回家之后和我聊了聊天，一如既往的早早睡着了，我也没觉得有什么异常，早早睡去。第二天早上，宝宝一大早告诉我阿姨的牌友阳了，然后睡去，我起床没有什么不适，还兴致勃勃的做了40分钟空腹有氧，心想自己可能就是所谓的无症状感染者。直到中午一觉醒来，自己也芭比Q了，感觉自从小学之后就很少发高烧，除了新冠应该也没有其他什么原因，突然陷入一种迷糊、像是喝醉了一般的意识中，精神萎靡，四肢昏沉，只有在床上躺着才舒服点。但吃完布洛芬，晚上体温突然就下去了，我想我是一天速通新冠，不愧是经常锻炼人。宝宝也早早睡去，一样的发烧，一样的意识模糊。</p><p><img src="https://lover-1304073984.cos.ap-nanjing.myqcloud.com/love/image-20221215194523935.png" alt="image-20221215194523935" style="zoom:25%;" /></p><center><div style="color:orange;    display: inline-block;    color: #999;    padding: 2px;">辛勤工作的加湿器</div></center><p>&ensp;&ensp;&ensp;&ensp;第二天起床，宝宝经历了难熬的一个晚上，吃了很多药，终于温度降下来了。我第二天反而重返38℃，但难受的感觉倒其实没有多少了，只有一种烧灼感，像是从鼻子里、嘴巴里呼出的热乎乎的气，像是冬天待在暖气房里的体感，提醒着我还在发烧。这一天里，我应该喝了比之前人生任何的一天都多的水，一有空就去喝水、接水，好歹嗓子保住了。与我不同的是，宝宝始终伴随着肌肉酸痛与嗓子痛，好心疼呜呜。一天又在吃吃睡睡中度过，幸运的是我的食欲还不错，始终没有什么严重的咽痛，咔咔就是一顿造，为身体补充了不少抗争病毒的营养。</p><p>&ensp;&ensp;&ensp;&ensp;直到今天半夜，醒来发现自己的汗水浸湿了床单与枕头，又昏昏睡去，第二天醒来宝宝和我都顺利退烧，耶耶！虽说宝宝还有些咽痛，但我们与新冠的抗争也基本告一段落了。希望今后，我们都能身体健康，毕竟本来就是两个无比健康的人，少些这方面的烦恼吧。</p>]]>
+    </content>
+    <id>http://sxhlmy.love/2022/12/09/%E9%98%B3%E4%BA%86%E4%B8%AA%E9%98%B3/</id>
+    <link href="http://sxhlmy.love/2022/12/09/%E9%98%B3%E4%BA%86%E4%B8%AA%E9%98%B3/"/>
+    <published>2022-12-09T15:56:48.000Z</published>
+    <summary>
+      <![CDATA[<p><img src="https://lover-1304073984.cos.ap-nanjing.myqcloud.com/love/image-20221215195532136.png" alt="image-20221215195532136" style="zoo]]>
+    </summary>
+    <title>🐏了个🐏</title>
+    <updated>2022-12-19T15:58:40.000Z</updated>
+  </entry>
+  <entry>
+    <author>
+      <name>SOFILIPA</name>
+    </author>
+    <category term="日常" scheme="http://sxhlmy.love/categories/%E6%97%A5%E5%B8%B8/"/>
+    <category term="date" scheme="http://sxhlmy.love/tags/date/"/>
+    <category term="音乐" scheme="http://sxhlmy.love/tags/%E9%9F%B3%E4%B9%90/"/>
+    <content>
+      <![CDATA[<p><img src="https://lover-1304073984.cos.ap-nanjing.myqcloud.com/love/adc83856e1b2a22940f9f0d782f517f0bbe0de70.jpg" alt="蛋堡-关于小熊mv-哔哩哔哩"></p><p>&ensp;&ensp;&ensp;&ensp;17年已经过去5年了，甚至快6年。</p><p>&ensp;&ensp;&ensp;&ensp;最开始听到蛋堡是17年，迷恋于他的歌所拥有的独特韵律、字斟句酌过的修辞与韵脚。比起当时的其他rapper天天嘴巴里票子马子车子，他的歌真的如同收敛水一样，某些时候更有种浅浅哀伤的氛围。当时的我，只是单纯地聆听，并沉浸于这种淡淡的哀伤中。我不会想到，这会让我与谁相遇，与怎样匪伊朝夕的缘分。而那首关于小熊，也成为了我们的人生之歌。</p><p>&ensp;&ensp;&ensp;&ensp;蛋堡是我们熟络的关键词，很难想象在当时除了我竟然还有人听这种小众歌手。你去KTV也点了他的几首歌，恰好qyx知道咱们俩都在听。多是一个巧合！于是借此为契机，我们每天一起聊天，一旦有时间我就会拿起手机和你敲字，聊高中生活、聊八卦、聊音乐、聊人生、聊彼此有趣的经历、倾诉各种情绪，算是高中忙碌生活中不小的慰藉。QQ小小的聊天窗，谱出了我们之间联系的一丝一缕。现在想来，能一起聊天这么久而不彼此嫌弃也是中难能可贵的契合，这是种少有，且之后不会再有的经历了。很难想象，虽然在网上我们无比熟络，在现实里却连招呼都没怎么打过。直到有次放学qyx和你走在后面，她看见我大喊：“sxh,你老婆lmy来了！”。吓得我不好意思的回头看，并抱头鼠窜。当然，心中还是无比窃喜。</p><p>&ensp;&ensp;&ensp;&ensp;后来还是一直聊天，聊到了高考结束，我们都去了上海玩，不过不是同一时间，你发给我很多照片看，我也发给你很多照片看。当时zhangxue和dty问我，“你们两个天天这样聊天，怎么不在一起？”，我嘴上说着，“没没没，没没没。”，心中却想的是，可以的话，一定会的。之后我们在一起，送你的第一个生日礼物选的是蛋堡的专辑，《踩.脚.踏.车》，这张专辑当时哪里都没有版权，我上淘宝找了好一会才找到实体版，只有你能听到。后来我也收齐的蛋堡的大部分实体专辑，完成了一个小小的愿望。</p><p>&ensp;&ensp;&ensp;&ensp;且论蛋堡的歌，还是在悲伤时更适合听。分开的日子里，我也常听，在海南我也自己唱，“關於小熊的故事 也關於你關於我關於留 關於走 關於喜歡與否。”，“他的填充物是遺憾 笑臉是假裝”，这些歌词句句戳心。要问听到最伤心的，还是那句“當畫面停在old days 抱在一起 男孩回答Always”。我会想起我们度过的日日夜夜，那些good old days在我的人生中熠熠生辉。无论蛋堡、关于小熊，亦或是关于他的其他歌曲或符号，已经深深植入我们的记忆与关系中，承载着我们的笑与泪，无数情绪都已经化入歌里了。这也是我们的人生之歌，至少目前，我们几乎三分之一的人生，都围绕这首歌展开与漫延。</p><p>&ensp;&ensp;&ensp;&ensp;    old days的的画面延伸，映向后方，我们会一直是Always，forever。</p>]]>
+    </content>
+    <id>http://sxhlmy.love/2022/12/06/%E4%BA%BA%E7%94%9F%E4%B9%8B%E6%AD%8C/</id>
+    <link href="http://sxhlmy.love/2022/12/06/%E4%BA%BA%E7%94%9F%E4%B9%8B%E6%AD%8C/"/>
+    <published>2022-12-05T16:31:16.000Z</published>
+    <summary>
+      <![CDATA[<p><img src="https://lover-1304073984.cos.ap-nanjing.myqcloud.com/love/adc83856e1b2a22940f9f0d782f517f0bbe0de70.jpg" alt="蛋堡-关于小熊mv-哔哩哔哩"></]]>
+    </summary>
+    <title>人生之歌</title>
+    <updated>2022-12-09T16:35:56.000Z</updated>
+  </entry>
+  <entry>
+    <author>
+      <name>SOFILIPA</name>
+    </author>
+    <category term="日常" scheme="http://sxhlmy.love/categories/%E6%97%A5%E5%B8%B8/"/>
+    <category term="美食" scheme="http://sxhlmy.love/tags/%E7%BE%8E%E9%A3%9F/"/>
+    <category term="游戏" scheme="http://sxhlmy.love/tags/%E6%B8%B8%E6%88%8F/"/>
+    <category term="date" scheme="http://sxhlmy.love/tags/date/"/>
+    <content>
+      <![CDATA[<p>&ensp;&ensp;&ensp;&ensp;又是等老婆下班的一天捏。五点下班，今天去小寨，长安北路像以往一样堵得让人血压飙升，车流一点点地向前挪动着，等待下个红绿灯给予的微薄的掉头希望。等我到了之后，老婆已经在路边等到手机没电，可谓是最让现代人失去安全感的几件事之一。赶紧去底下扫了个充电宝，去餐厅吃饭。</p><img src="https://lover-1304073984.cos.ap-nanjing.myqcloud.com/love/image-20221205003352739.png" alt="image-20221205003352739" style="zoom:15%;" /><center><div style="color:orange;    display: inline-block;    color: #999;![image-20221205010544183](C:\Users\xuhan\AppData\Roaming\Typora\typora-user-images\image-20221205010544183.png)    padding: 2px;">炙烤猪颈肉</div></center><img src="https://lover-1304073984.cos.ap-nanjing.myqcloud.com/love/image-20221205010557195.png" alt="image-20221205010557195" style="zoom: 10%;" /><center><div style="color:orange;    display: inline-block;    color: #999;![image-20221205010544183](C:\Users\xuhan\AppData\Roaming\Typora\typora-user-images\image-20221205010544183.png)    padding: 2px;">潮女先锋艺术家约会被狗仔抓拍</div></center><p>&ensp;&ensp;&ensp;&ensp;餐厅的主打是越南菜，近些年越餐似乎也成为了餐饮流派中比较流行的一支，主要是卖卖河粉、春卷和烤肉之类，一般也很难做的难吃。这不是我第一次来这家餐厅，上次是和高中同学来，他们俩吃了不少。每次来这里我都会点一样的东西————牛肉面包，外皮是烤的脆脆的两块法棍似的面包，里面是一些蔬菜和炙烤过的牛肉，辅以一点点沙拉酱，看似平淡的组合，味道其实还是不错的。老婆点了火车头河粉，里面的牛肉分给我吃了很多，每次吃这种东西我都只吃里面的肉，放弃很多碳水，宝宝与我在吃泡馍的习惯上倒是互补，一个都不怎么吃，一个只吃肉，两个人合吃一份，倒是有些吃完的希望。我带的冲锋衣内胆倒是派上了很大的用场，宝宝穿上意外的不冷了，活脱脱潮女先锋艺术家一枚~~~~~</p><p><img src="https://lover-1304073984.cos.ap-nanjing.myqcloud.com/love/image-20221205005904940.png" alt="image-20221205005904940" style="zoom:15%;" /></p><center><div style="color:orange;    display: inline-block;    color: #999;    padding: 2px;">一番赏红发</div></center><p><img src="https://lover-1304073984.cos.ap-nanjing.myqcloud.com/love/image-20221205005955247.png" alt="image-20221205005955247" style="zoom:15%;" /></p><center><div style="color:orange;    display: inline-block;    color: #999;    padding: 2px;">40元喜相逢</div></center><p>&ensp;&ensp;&ensp;&ensp;酒足饭饱，本想去调个香水玩玩，路上经过盲盒店，恰好有海贼王的一番赏抽，两个人想着不如碰碰运气，59*2，买了两抽。然后就中了，只听见店员卧槽一句，这版算是又废了。我们两个人狂笑着，店里洋溢着快活的空气。不得不说最近某人的运气真的不错，不仅抽中了，抽中的还是红发，这个老好人想来没有任何人会嫌弃，真棒。接着上楼，又路过刮刮乐，择日不如撞日，刮刮先！60->40->20->0。玩了四轮，创下了我们买两张刮刮乐玩得轮数记录，不得不说今天运气是真的很好！我人生刮刮乐最高中奖记录也被刷新20->40，提升100%。</p><p><img src="https://lover-1304073984.cos.ap-nanjing.myqcloud.com/love/image-20221205010301606.png" alt="image-20221205010301606" style="zoom: 33%;" /></p><center><div style="color:orange;    display: inline-block;    color: #999;    padding: 2px;">图片之一</div></center><p>&ensp;&ensp;&ensp;&ensp;最后决定去某人不太想让我去的创意谷，真是农村人进城，处处感到惊奇，身为陕北洋芋蛋，我的精神世界再次收到了冲击，找了个咖啡馆一起坐了会，两个人一起P了些稀奇古怪的图片，在路上依偎了一会，依依不舍地各自回家了。</p>]]>
+    </content>
+    <id>http://sxhlmy.love/2022/12/04/%E8%B6%8A%E5%8D%97%E8%8F%9C%E3%80%81%E4%B8%80%E7%95%AA%E8%B5%8F%E4%B8%8E%E5%88%9B%E6%84%8F%E8%B0%B7/</id>
+    <link href="http://sxhlmy.love/2022/12/04/%E8%B6%8A%E5%8D%97%E8%8F%9C%E3%80%81%E4%B8%80%E7%95%AA%E8%B5%8F%E4%B8%8E%E5%88%9B%E6%84%8F%E8%B0%B7/"/>
+    <published>2022-12-04T15:51:40.000Z</published>
+    <summary>
+      <![CDATA[<p>
+&ensp;&ensp;&ensp;&ensp;又是等老婆下班的一天捏。五点下班，今天去小寨，长安北路像以往一样堵得让人血压飙升，车流一点点地向前挪动着，等待下个红绿灯给予的微薄的掉头希望。等我到了之后，老婆已经在路边等到手机没电，可谓是最让现代人失去安全感的几件事之一。]]>
+    </summary>
+    <title>越南菜、一番赏与创意谷</title>
+    <updated>2022-12-06T04:32:50.000Z</updated>
+  </entry>
 </feed>
