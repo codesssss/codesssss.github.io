@@ -206,3 +206,9 @@ h6::before {
   -webkit-animation: ccc 6s linear infinite;
   animation: ccc 6s linear infinite;
 }
+
+#site-subtitle #subtitle::after {
+  content: "🥰🥰🥰";
+  margin-left: 0.15em;
+  font-family: Apple Color Emoji, Segoe UI Emoji, Noto Color Emoji, sans-serif;
+}
